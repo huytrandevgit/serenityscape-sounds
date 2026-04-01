@@ -105,6 +105,10 @@
     {"name":"SHAKUHACHI","fileName":"med_shakuhachi","iconName":"wind","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_shakuhachi.mp3"},
     {"name":"DEEP SPACE","fileName":"med_deep_space","iconName":"moon.stars.fill","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_deep_space.mp3"},
     {"name":"YOGA FLOW","fileName":"med_yoga_flow","iconName":"figure.mind.and.body","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_yoga_flow.mp3"},
-    {"name":"SACRED CHOIR","fileName":"med_sacred_choir","iconName":"person.3.fill","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_sacred_choir.mp3"}
+    {"name":"SACRED CHOIR","fileName":"med_sacred_choir","iconName":"person.3.fill","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_sacred_choir.mp3"},    {"name":"SACRED CHOIR","fileName":"med_sacred_choir","iconName":"person.3.fill","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_sacred_choir.mp3"},
+    {"name":"TROPICAL RAIN","fileName":"tropical_rain","iconName":"cloud.heavyrain.fill","category":"nature","isLocked":true,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tropical_rain.mp3"}
+  ]
+}
+
   ]
 }
