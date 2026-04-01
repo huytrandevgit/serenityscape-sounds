@@ -107,6 +107,7 @@
     {"name":"YOGA FLOW","fileName":"med_yoga_flow","iconName":"figure.mind.and.body","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_yoga_flow.mp3"},
     {"name":"SACRED CHOIR","fileName":"med_sacred_choir","iconName":"person.3.fill","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_sacred_choir.mp3"},
     {"name":"TROPICAL RAIN","fileName":"tropical_rain","iconName":"cloud.heavyrain.fill","category":"nature","isLocked":true,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tropical_rain.mp3"},
-    {"name":"SPRING FOREST","fileName":"Spring_Forest_Nature","iconName":"leaf.fill","category":"nature","isLocked":true,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Spring_Forest_Nature.mp3"}
+    {"name":"SPRING FOREST","fileName":"Spring_Forest_Nature","iconName":"leaf.fill","category":"nature","isLocked":true,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Spring_Forest_Nature.mp3"},
+    {"name":"SOFT RELAXING","fileName":"Soft_Relaxing_Music","iconName":"moon.haze.fill","category":"meditation_music","isLocked":false,"url":"https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Soft_Relaxing_Music.mp3","isNew":true}
   ]
 }
