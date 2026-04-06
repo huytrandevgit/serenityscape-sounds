@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "categories": [
     {
       "id": "baby_sleep",
@@ -548,6 +548,15 @@
       "category": "meditation_music",
       "isLocked": false,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_zen_flute.mp3"
+    },
+    {
+      "name": "DEEP HEALING FLOW",
+      "fileName": "Deep_Healing_Flow",
+      "iconName": "staroflife.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Deep_Healing_Flow.mp3"
     },
     {
       "name": "KALIMBA",
