@@ -392,15 +392,6 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Deep_Healing_Flow.mp3"
     },
     {
-      "name": "MORE WISDOM",
-      "fileName": "More_wisdom",
-      "iconName": "circle.circle.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/More_wisdom.mp3"
-    },
-    {
       "name": "SACRED BALANCE",
       "fileName": "Sacred_Balance",
       "iconName": "person.3.fill",
