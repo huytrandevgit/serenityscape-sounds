@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "categories": [
     {
       "id": "baby_sleep",
@@ -212,6 +212,15 @@
       "category": "baby_sleep",
       "isLocked": false,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_womb.mp3"
+    },
+    {
+      "name": "40HZ GAMMA FOCUS FLOW",
+      "fileName": "40Hz_Gamma_Focus_Flow",
+      "iconName": "bolt.fill",
+      "category": "meditation_hz",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/40Hz_Gamma_Focus_Flow.mp3"
     },
     {
       "name": "ALPHA FOCUS",
