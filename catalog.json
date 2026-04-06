@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "categories": [
     {
       "id": "baby_sleep",
@@ -951,6 +951,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
+    },
+    {
+      "name": "THE MIND LEADS A THINGS",
+      "fileName": "The_Mind_Leads_A_Things",
+      "iconName": "waveform.path",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/The_Mind_Leads_A_Things.mp3"
     },
     {
       "name": "DEEP CALM",
