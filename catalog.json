@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "categories": [
     {
       "id": "baby_sleep",
@@ -399,6 +399,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/More_wisdom.mp3"
+    },
+    {
+      "name": "SACRED BALANCE",
+      "fileName": "Sacred_Balance",
+      "iconName": "person.3.fill",
+      "category": "meditation_music",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Sacred_Balance.mp3"
     },
     {
       "name": "SLEEP MUSIC",
