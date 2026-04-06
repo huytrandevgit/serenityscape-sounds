@@ -74,12 +74,9 @@ def make_display_name(file_name: str) -> str:
 
 
 def make_icon_name(file_name: str) -> str:
-    clean = file_name.lower()
-    for prefix in ["baby_", "med_", "hz_"]:
-        if clean.startswith(prefix):
-            clean = clean[len(prefix):]
-            break
-    return clean.replace("_", "").replace(" ", "")
+    """Map filename to a valid SF Symbol icon name."""
+    # Always use a valid SF Symbol — app will fallback to music.note if invalid
+    return "music.note"
 
 
 def folder_to_title(folder_name: str) -> str:
