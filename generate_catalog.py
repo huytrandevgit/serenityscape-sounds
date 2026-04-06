@@ -74,9 +74,115 @@ def make_display_name(file_name: str) -> str:
 
 
 def make_icon_name(file_name: str) -> str:
-    """Map filename to a valid SF Symbol icon name."""
-    # Always use a valid SF Symbol — app will fallback to music.note if invalid
-    return "music.note"
+    """Map filename to a valid SF Symbol icon name based on keywords."""
+    name = file_name.lower()
+    
+    # Keyword-based icon mapping
+    keyword_icons = {
+        "ocean": "water.waves",
+        "rain": "cloud.rain.fill",
+        "thunder": "cloud.bolt.fill",
+        "wind": "wind",
+        "fire": "flame.fill",
+        "campfire": "flame.fill",
+        "bird": "bird.fill",
+        "forest": "tree.fill",
+        "leaf": "leaf.fill",
+        "stream": "water.waves",
+        "wave": "water.waves",
+        "piano": "pianokeys",
+        "guitar": "guitars.fill",
+        "flute": "music.note",
+        "drum": "circle.grid.3x3.fill",
+        "bowl": "circle.hexagongrid.fill",
+        "bell": "bell.fill",
+        "chant": "person.fill",
+        "choir": "person.3.fill",
+        "heart": "heart.fill",
+        "sleep": "moon.zzz.fill",
+        "dream": "cloud.fill",
+        "night": "moon.stars.fill",
+        "morning": "sunrise.fill",
+        "sun": "sun.max.fill",
+        "star": "star.fill",
+        "peace": "leaf.circle.fill",
+        "calm": "wind",
+        "zen": "sparkles",
+        "yoga": "figure.mind.and.body",
+        "meditat": "brain.head.profile",
+        "heal": "staroflife.fill",
+        "crystal": "sparkles",
+        "temple": "building.columns.fill",
+        "gong": "circle.fill",
+        "harp": "music.quarternote.3",
+        "sitar": "guitars.fill",
+        "bamboo": "leaf.fill",
+        "cave": "mountain.2.fill",
+        "mountain": "mountain.2.circle.fill",
+        "desert": "sun.max.fill",
+        "snow": "snowflake",
+        "ice": "snowflake",
+        "whale": "fish.fill",
+        "frog": "tortoise.fill",
+        "cricket": "ant.fill",
+        "baby": "moon.stars.fill",
+        "lullaby": "moon.stars.fill",
+        "white_noise": "waveform",
+        "fan": "fan.fill",
+        "vacuum": "circle.dotted",
+        "gentle": "leaf.fill",
+        "soft": "cloud.fill",
+        "deep": "waveform.path",
+        "alpha": "brain.head.profile",
+        "theta": "moon.zzz.fill",
+        "delta": "bed.double.fill",
+        "gamma": "bolt.fill",
+        "hz": "waveform.path",
+        "binaural": "waveform",
+        "om": "circle.circle.fill",
+        "mantra": "water.waves",
+        "sacred": "person.3.fill",
+        "space": "moon.stars.fill",
+        "ambient": "waveform",
+        "relax": "leaf.circle.fill",
+        "breeze": "wind",
+        "spring": "bird.fill",
+        "autumn": "leaf.fill",
+        "summer": "sun.max.fill",
+        "winter": "snowflake",
+        "river": "water.waves",
+        "lake": "drop.degreesign.fill",
+        "waterfall": "drop.triangle.fill",
+        "recharge": "bolt.fill",
+        "energy": "bolt.fill",
+        "focus": "brain.head.profile",
+        "study": "book.fill",
+        "read": "book.fill",
+        "work": "desktopcomputer",
+        "lofi": "headphones",
+        "chill": "cup.and.saucer.fill",
+        "coffee": "cup.and.saucer.fill",
+        "tropical": "cloud.heavyrain.fill",
+        "island": "moon.stars.fill",
+        "country": "sun.and.horizon.fill",
+        "horse": "figure.equestrian.sports",
+        "sheep": "pawprint.fill",
+        "duck": "bird.fill",
+    }
+    
+    for keyword, icon in keyword_icons.items():
+        if keyword in name:
+            return icon
+    
+    # Fallback: rotate through pleasant icons
+    import hashlib
+    fallback_icons = [
+        "music.note", "sparkles", "star.fill", "heart.fill",
+        "leaf.fill", "moon.stars.fill", "waveform.path", "wind",
+        "cloud.fill", "drop.fill", "flame.fill", "circle.hexagongrid.fill",
+    ]
+    h = int(hashlib.md5(name.encode()).hexdigest(), 16)
+    return fallback_icons[h % len(fallback_icons)]
 
 
 def folder_to_title(folder_name: str) -> str:
