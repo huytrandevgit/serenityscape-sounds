@@ -928,7 +928,7 @@
     {
       "name": "DEEP CALM",
       "fileName": "deep_calm",
-      "iconName": "music.note",
+      "iconName": "waveform.path",
       "category": "zen_hit",
       "isLocked": false,
       "isNew": true,
@@ -937,7 +937,7 @@
     {
       "name": "GENTLE BREEZE",
       "fileName": "gentle_breeze",
-      "iconName": "music.note",
+      "iconName": "wind",
       "category": "zen_hit",
       "isLocked": false,
       "isNew": true,
@@ -946,7 +946,7 @@
     {
       "name": "PEACEFUL MORNING",
       "fileName": "peaceful_morning",
-      "iconName": "peacefulmorning",
+      "iconName": "sunrise.fill",
       "category": "zen_hit",
       "isLocked": false,
       "isNew": true,
