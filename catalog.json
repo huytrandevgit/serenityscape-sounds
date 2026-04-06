@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": [
     {
       "id": "baby_sleep",
@@ -924,6 +924,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
+    },
+    {
+      "name": "DEEP CALM",
+      "fileName": "deep_calm",
+      "iconName": "music.note",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/deep_calm.mp3"
     },
     {
       "name": "PEACEFUL MORNING",
