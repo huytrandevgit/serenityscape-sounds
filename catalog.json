@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "categories": [
     {
       "id": "baby_sleep",
@@ -424,6 +424,15 @@
       "category": "meditation_music",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Soft_Relaxing_Music.mp3"
+    },
+    {
+      "name": "THE PORTAL TO ANDROMEDA",
+      "fileName": "The_Portal_To_Andromeda",
+      "iconName": "circle.circle.fill",
+      "category": "meditation_music",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/The_Portal_To_Andromeda.mp3"
     },
     {
       "name": "CRYSTAL BOWLS",
