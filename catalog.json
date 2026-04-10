@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "categories": [
     {
       "id": "baby_sleep",
@@ -595,6 +595,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_zen_flute.mp3"
     },
     {
+      "name": "CLEAR YOUR NEGATIVE ENERGY",
+      "fileName": "Clear_your_negative_energy",
+      "iconName": "bolt.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Clear_your_negative_energy.mp3"
+    },
+    {
       "name": "KALIMBA",
       "fileName": "Kalimba",
       "iconName": "kalimba",
@@ -609,6 +618,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Spring_Forest_Nature.mp3"
+    },
+    {
+      "name": "TINGSHA VOICE CAN CLEAR NEGATIVE THOUGHTS",
+      "fileName": "Tingsha_voice_can_clear_negative_thoughts",
+      "iconName": "snowflake",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Tingsha_voice_can_clear_negative_thoughts.mp3"
     },
     {
       "name": "AMBIENT DESERT",
@@ -969,6 +987,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
+    },
+    {
+      "name": "BODY IN THE WORLD MIND OUTSIDE THE WORLD",
+      "fileName": "Body_In_The_World_Mind_Outside_The_World",
+      "iconName": "moon.stars.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Body_In_The_World_Mind_Outside_The_World.mp3"
     },
     {
       "name": "SILENT BREATH",
