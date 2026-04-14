@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1005,6 +1005,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Body_In_The_World_Mind_Outside_The_World.mp3"
+    },
+    {
+      "name": "GREEN TARA MANTRA",
+      "fileName": "Green_Tara_Mantra",
+      "iconName": "water.waves",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Green_Tara_Mantra.mp3"
     },
     {
       "name": "SILENT BREATH",
