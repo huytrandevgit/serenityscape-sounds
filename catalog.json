@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "categories": [
     {
       "id": "baby_sleep",
@@ -392,6 +392,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/tibetan_bowls_432.mp3"
     },
     {
+      "name": "CALM THE MIND",
+      "fileName": "Calm_The_Mind",
+      "iconName": "wind",
+      "category": "meditation_music",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Calm_The_Mind.mp3"
+    },
+    {
       "name": "DEEP HEALING FLOW",
       "fileName": "Deep_Healing_Flow",
       "iconName": "staroflife.fill",
@@ -401,6 +410,33 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Deep_Healing_Flow.mp3"
     },
     {
+      "name": "OM ARHAM",
+      "fileName": "OM_ARHAM",
+      "iconName": "circle.circle.fill",
+      "category": "meditation_music",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/OM_ARHAM.mp3"
+    },
+    {
+      "name": "OM NAMO NARAYANAYA",
+      "fileName": "Om_Namo_Narayanaya",
+      "iconName": "circle.circle.fill",
+      "category": "meditation_music",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Om_Namo_Narayanaya.mp3"
+    },
+    {
+      "name": "OM TRYAMBAKAM YAJAMAHE",
+      "fileName": "Om_Tryambakam_Yajamahe",
+      "iconName": "circle.circle.fill",
+      "category": "meditation_music",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Om_Tryambakam_Yajamahe.mp3"
+    },
+    {
       "name": "SACRED BALANCE",
       "fileName": "Sacred_Balance",
       "iconName": "person.3.fill",
@@ -408,6 +444,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Sacred_Balance.mp3"
+    },
+    {
+      "name": "SHRI RAM JAI RAM JAI JAI RAM",
+      "fileName": "Shri_Ram_Jai_Ram_Jai_Jai_Ram",
+      "iconName": "moon.stars.fill",
+      "category": "meditation_music",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Shri_Ram_Jai_Ram_Jai_Jai_Ram.mp3"
     },
     {
       "name": "SLEEP MUSIC",
