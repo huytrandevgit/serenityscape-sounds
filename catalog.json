@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "categories": [
     {
       "id": "baby_sleep",
@@ -618,6 +618,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Spring_Forest_Nature.mp3"
+    },
+    {
+      "name": "TIBETAN SINGING BOWLS",
+      "fileName": "Tibetan_Singing_Bowls",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Tibetan_Singing_Bowls.mp3"
     },
     {
       "name": "TINGSHA VOICE CAN CLEAR NEGATIVE THOUGHTS",
