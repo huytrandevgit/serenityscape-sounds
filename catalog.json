@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1041,6 +1041,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
+    },
+    {
+      "name": "ARCTURIAN",
+      "fileName": "Arcturian",
+      "iconName": "flame.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Arcturian.mp3"
     },
     {
       "name": "BODY IN THE WORLD MIND OUTSIDE THE WORLD",
