@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1095,6 +1095,24 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Silent_Breath.mp3"
+    },
+    {
+      "name": "THE MOTHERLAND CALLS YOU HOME",
+      "fileName": "THE_MOTHERLAND_CALLS_YOU_HOME",
+      "iconName": "circle.circle.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_MOTHERLAND_CALLS_YOU_HOME.mp3"
+    },
+    {
+      "name": "THE PORTAL TO ANDROMEDA IS OPEN RECLAIM YOUR FREEDOM",
+      "fileName": "THE_PORTAL_TO_ANDROMEDA_IS_OPEN_RECLAIM_YOUR_FREEDOM",
+      "iconName": "circle.circle.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_PORTAL_TO_ANDROMEDA_IS_OPEN_RECLAIM_YOUR_FREEDOM.mp3"
     },
     {
       "name": "THE MIND LEADS A THINGS",
