@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1115,6 +1115,33 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_PORTAL_TO_ANDROMEDA_IS_OPEN_RECLAIM_YOUR_FREEDOM.mp3"
     },
     {
+      "name": "THE STARS ARE SINGING TO YOUR CELLS",
+      "fileName": "THE_STARS_ARE_SINGING_TO_YOUR_CELLS",
+      "iconName": "star.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_STARS_ARE_SINGING_TO_YOUR_CELLS.mp3"
+    },
+    {
+      "name": "THE STELLAR ALLIANCE IS IN YOU FIELD",
+      "fileName": "THE_STELLAR_ALLIANCE_IS_IN_YOU_FIELD",
+      "iconName": "cloud.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_STELLAR_ALLIANCE_IS_IN_YOU_FIELD.mp3"
+    },
+    {
+      "name": "THE TECHNOLOGY OF THE STARS IS IN YOUR CELLS",
+      "fileName": "THE_TECHNOLOGY_OF_THE_STARS_IS_IN_YOUR_CELLS",
+      "iconName": "star.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_TECHNOLOGY_OF_THE_STARS_IS_IN_YOUR_CELLS.mp3"
+    },
+    {
       "name": "THE MIND LEADS A THINGS",
       "fileName": "The_Mind_Leads_A_Things",
       "iconName": "waveform.path",
@@ -1122,6 +1149,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/The_Mind_Leads_A_Things.mp3"
+    },
+    {
+      "name": "YOUR GENETIC CODE IS A COSMIC LIBRARY",
+      "fileName": "YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY",
+      "iconName": "star.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY.mp3"
     },
     {
       "name": "DEEP CALM",
