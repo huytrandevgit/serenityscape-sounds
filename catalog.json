@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1077,6 +1077,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Green_Tara_Mantra.mp3"
+    },
+    {
+      "name": "HEALING SOUNDS FOR INNER PEACE",
+      "fileName": "Healing_Sounds_for_Inner_Peace",
+      "iconName": "leaf.circle.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Healing_Sounds_for_Inner_Peace.mp3"
     },
     {
       "name": "SILENT BREATH",
