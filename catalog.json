@@ -1043,15 +1043,6 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
     },
     {
-      "name": "ARCTURIAN",
-      "fileName": "Arcturian",
-      "iconName": "flame.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Arcturian.mp3"
-    },
-    {
       "name": "BODY IN THE WORLD MIND OUTSIDE THE WORLD",
       "fileName": "Body_In_The_World_Mind_Outside_The_World",
       "iconName": "moon.stars.fill",
