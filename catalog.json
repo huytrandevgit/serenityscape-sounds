@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1050,6 +1050,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Body_In_The_World_Mind_Outside_The_World.mp3"
+    },
+    {
+      "name": "GRAVE OF INFATUATION",
+      "fileName": "Grave_of_Infatuation",
+      "iconName": "star.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Grave_of_Infatuation.mp3"
     },
     {
       "name": "GREEN TARA MANTRA",
