@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1133,6 +1133,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_of_the_Nigh_1.mp3"
     },
     {
+      "name": "SEPTEMBER",
+      "fileName": "September",
+      "iconName": "heart.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/September.mp3"
+    },
+    {
       "name": "SILENT BREATH",
       "fileName": "Silent_Breath",
       "iconName": "moon.stars.fill",
@@ -1196,6 +1205,24 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/The_Mind_Leads_A_Things.mp3"
     },
     {
+      "name": "VAN GOGH",
+      "fileName": "Van_Gogh",
+      "iconName": "moon.stars.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Van_Gogh.mp3"
+    },
+    {
+      "name": "WHENEVER IT RAINS",
+      "fileName": "Whenever_It_Rains",
+      "iconName": "cloud.rain.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Whenever_It_Rains.mp3"
+    },
+    {
       "name": "WHITE SNOW",
       "fileName": "White_Snow",
       "iconName": "snowflake",
@@ -1203,6 +1230,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/White_Snow.mp3"
+    },
+    {
+      "name": "WOUND",
+      "fileName": "Wound",
+      "iconName": "sparkles",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Wound.mp3"
     },
     {
       "name": "YOUR GENETIC CODE IS A COSMIC LIBRARY",
