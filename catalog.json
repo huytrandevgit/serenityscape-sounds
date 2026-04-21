@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "categories": [
     {
       "id": "baby_sleep",
@@ -53,6 +53,321 @@
     }
   ],
   "sounds": [
+    {
+      "name": "A SWEET BAKER",
+      "fileName": "A_Sweet_Baker",
+      "iconName": "wind",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/A_Sweet_Baker.mp3"
+    },
+    {
+      "name": "ARE YOU SLEEPING",
+      "fileName": "Are_You_Sleeping",
+      "iconName": "moon.zzz.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Are_You_Sleeping.mp3"
+    },
+    {
+      "name": "BAA BAA LITTLE LAMB",
+      "fileName": "Baa_Baa_Little_Lamb",
+      "iconName": "drop.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Baa_Baa_Little_Lamb.mp3"
+    },
+    {
+      "name": "BACH CANTATA",
+      "fileName": "Bach_Cantata",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Bach_Cantata.mp3"
+    },
+    {
+      "name": "BRAHMS LULLABY",
+      "fileName": "Brahms_Lullaby",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Brahms_Lullaby.mp3"
+    },
+    {
+      "name": "BRAHMS LULLABY MUSIC BOX",
+      "fileName": "Brahms_Lullaby_Music_Box",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Brahms_Lullaby_Music_Box.mp3"
+    },
+    {
+      "name": "BUTTERFLY ON THE WIND",
+      "fileName": "Butterfly_On_The_Wind",
+      "iconName": "wind",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Butterfly_On_The_Wind.mp3"
+    },
+    {
+      "name": "CRADLE SONG",
+      "fileName": "Cradle_Song",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Cradle_Song.mp3"
+    },
+    {
+      "name": "FIVE LITTLE DUCKS",
+      "fileName": "Five_Little_Ducks",
+      "iconName": "bird.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Five_Little_Ducks.mp3"
+    },
+    {
+      "name": "FLOWER TIME",
+      "fileName": "Flower_Time",
+      "iconName": "star.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Flower_Time.mp3"
+    },
+    {
+      "name": "FLOWERING MEADOWS",
+      "fileName": "Flowering_Meadows",
+      "iconName": "wind",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Flowering_Meadows.mp3"
+    },
+    {
+      "name": "FRERE JACQUES",
+      "fileName": "Frere_Jacques",
+      "iconName": "flame.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Frere_Jacques.mp3"
+    },
+    {
+      "name": "GENTLE SUMMER BREEZE",
+      "fileName": "Gentle_Summer_Breeze",
+      "iconName": "leaf.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Gentle_Summer_Breeze.mp3"
+    },
+    {
+      "name": "HAVE YOU SEEN MR MUSHROOM",
+      "fileName": "Have_You_Seen_Mr_Mushroom",
+      "iconName": "circle.circle.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Have_You_Seen_Mr_Mushroom.mp3"
+    },
+    {
+      "name": "HEY DIDDLE DIDDLE",
+      "fileName": "Hey_Diddle_Diddle",
+      "iconName": "music.note",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Hey_Diddle_Diddle.mp3"
+    },
+    {
+      "name": "HUSH LITTLE BABY",
+      "fileName": "Hush_Little_Baby",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Hush_Little_Baby.mp3"
+    },
+    {
+      "name": "LITTLE BO PEEP",
+      "fileName": "Little_Bo_Peep",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Bo_Peep.mp3"
+    },
+    {
+      "name": "LITTLE LASSIE",
+      "fileName": "Little_Lassie",
+      "iconName": "star.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Lassie.mp3"
+    },
+    {
+      "name": "LITTLE SHEPHERD BOY",
+      "fileName": "Little_Shepherd_Boy",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Shepherd_Boy.mp3"
+    },
+    {
+      "name": "MOTHERS LITTLE BOY",
+      "fileName": "Mothers_Little_Boy",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Mothers_Little_Boy.mp3"
+    },
+    {
+      "name": "MY SUNSHINE",
+      "fileName": "My_Sunshine",
+      "iconName": "sun.max.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/My_Sunshine.mp3"
+    },
+    {
+      "name": "PEACEFUL BABY",
+      "fileName": "Peaceful_Baby",
+      "iconName": "leaf.circle.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Peaceful_Baby.mp3"
+    },
+    {
+      "name": "PLAYING HOUSE",
+      "fileName": "Playing_House",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Playing_House.mp3"
+    },
+    {
+      "name": "RAIN RAIN GO AWAY",
+      "fileName": "Rain_Rain_Go_Away",
+      "iconName": "cloud.rain.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Rain_Rain_Go_Away.mp3"
+    },
+    {
+      "name": "ROW ROW ROW YOUR BOAT",
+      "fileName": "Row_Row_Row_Your_Boat",
+      "iconName": "wind",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Row_Row_Row_Your_Boat.mp3"
+    },
+    {
+      "name": "SAFE IN MY ARMS",
+      "fileName": "Safe_In_My_Arms",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Safe_In_My_Arms.mp3"
+    },
+    {
+      "name": "SAILING IN CALM WATERS",
+      "fileName": "Sailing_In_Calm_Waters",
+      "iconName": "wind",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Sailing_In_Calm_Waters.mp3"
+    },
+    {
+      "name": "STAR LIGHT STAR BRIGHT",
+      "fileName": "Star_Light_Star_Bright",
+      "iconName": "star.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Star_Light_Star_Bright.mp3"
+    },
+    {
+      "name": "THE SAILORS LULLABY",
+      "fileName": "The_Sailors_Lullaby",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Sailors_Lullaby.mp3"
+    },
+    {
+      "name": "THE SPARKLING SUN LULLABY",
+      "fileName": "The_Sparkling_Sun_Lullaby",
+      "iconName": "sun.max.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Sparkling_Sun_Lullaby.mp3"
+    },
+    {
+      "name": "THE SQUIRREL SONG",
+      "fileName": "The_Squirrel_Song",
+      "iconName": "cloud.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Squirrel_Song.mp3"
+    },
+    {
+      "name": "THE WILLOW LULLABY",
+      "fileName": "The_Willow_Lullaby",
+      "iconName": "moon.stars.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Willow_Lullaby.mp3"
+    },
+    {
+      "name": "TINY BLUE FLOWERS",
+      "fileName": "Tiny_Blue_Flowers",
+      "iconName": "heart.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Tiny_Blue_Flowers.mp3"
+    },
+    {
+      "name": "TWINKLE TWINKLE LITTLE STAR",
+      "fileName": "Twinkle_Twinkle_Little_Star",
+      "iconName": "star.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Twinkle_Twinkle_Little_Star.mp3"
+    },
+    {
+      "name": "WHEN THE LITTLE ONE ARRIVED",
+      "fileName": "When_The_Little_One_Arrived",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "baby_sleep",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/When_The_Little_One_Arrived.mp3"
+    },
     {
       "name": "CREEK",
       "fileName": "baby_creek",
