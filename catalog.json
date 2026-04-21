@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "categories": [
     {
       "id": "baby_sleep",
@@ -955,6 +955,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_zen_flute.mp3"
     },
     {
+      "name": "BIRD CARDINAL",
+      "fileName": "Bird_cardinal",
+      "iconName": "bird.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Bird_cardinal.mp3"
+    },
+    {
       "name": "CLEAR YOUR NEGATIVE ENERGY",
       "fileName": "Clear_your_negative_energy",
       "iconName": "bolt.fill",
@@ -1028,6 +1037,51 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/bamboo_forest.mp3"
+    },
+    {
+      "name": "BIRDS",
+      "fileName": "birds",
+      "iconName": "bird.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds.mp3"
+    },
+    {
+      "name": "BIRDS 432HZ",
+      "fileName": "birds_432hz",
+      "iconName": "bird.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_432hz.mp3"
+    },
+    {
+      "name": "BIRDS AMBIANCE",
+      "fileName": "birds_ambiance",
+      "iconName": "bird.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_ambiance.mp3"
+    },
+    {
+      "name": "BIRDS CHIRPING",
+      "fileName": "birds_chirping",
+      "iconName": "bird.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_chirping.mp3"
+    },
+    {
+      "name": "BIRDS FOREST NATURE",
+      "fileName": "birds_forest_nature",
+      "iconName": "bird.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_forest_nature.mp3"
     },
     {
       "name": "BLIZZARD",
