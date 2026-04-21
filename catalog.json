@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1050,6 +1050,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Body_In_The_World_Mind_Outside_The_World.mp3"
+    },
+    {
+      "name": "DACQUOISE",
+      "fileName": "Dacquoise",
+      "iconName": "flame.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Dacquoise.mp3"
     },
     {
       "name": "FIVE ELEMENT MUSIC THERAPY",
