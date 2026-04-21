@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1043,6 +1043,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
     },
     {
+      "name": "AUGUST",
+      "fileName": "August",
+      "iconName": "heart.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/August.mp3"
+    },
+    {
       "name": "BODY IN THE WORLD MIND OUTSIDE THE WORLD",
       "fileName": "Body_In_The_World_Mind_Outside_The_World",
       "iconName": "moon.stars.fill",
@@ -1095,6 +1104,33 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Healing_Sounds_for_Inner_Peace.mp3"
+    },
+    {
+      "name": "LIMIT",
+      "fileName": "Limit",
+      "iconName": "music.note",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Limit.mp3"
+    },
+    {
+      "name": "MELODY OF THE NIGHT",
+      "fileName": "Melody_Of_The_Night",
+      "iconName": "moon.stars.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_Of_The_Night.mp3"
+    },
+    {
+      "name": "MELODY OF THE NIGH 1",
+      "fileName": "Melody_of_the_Nigh_1",
+      "iconName": "star.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_of_the_Nigh_1.mp3"
     },
     {
       "name": "SILENT BREATH",
