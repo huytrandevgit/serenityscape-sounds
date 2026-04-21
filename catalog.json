@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1132,6 +1132,42 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/cave_sounds.mp3"
     },
     {
+      "name": "CHICKEN",
+      "fileName": "chicken",
+      "iconName": "leaf.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chicken.mp3"
+    },
+    {
+      "name": "CHICKEN CHILD SOUND",
+      "fileName": "chicken_Child_sound",
+      "iconName": "circle.hexagongrid.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chicken_Child_sound.mp3"
+    },
+    {
+      "name": "CHRIBONN NATURE",
+      "fileName": "chribonn_nature",
+      "iconName": "heart.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chribonn_nature.mp3"
+    },
+    {
+      "name": "COW BELL IN NATURE",
+      "fileName": "cow_bell_in_nature",
+      "iconName": "bell.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/cow_bell_in_nature.mp3"
+    },
+    {
       "name": "CRICKETS",
       "fileName": "crickets",
       "iconName": "crickets",
@@ -1188,12 +1224,30 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/harbour_birds.mp3"
     },
     {
+      "name": "HAUNTED GHOST SHIP",
+      "fileName": "haunted_ghost_ship",
+      "iconName": "wind",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/haunted_ghost_ship.mp3"
+    },
+    {
       "name": "HORSE",
       "fileName": "horse",
       "iconName": "horse",
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/horse.mp3"
+    },
+    {
+      "name": "INSIDE OLD TRAIN",
+      "fileName": "inside_old_train",
+      "iconName": "cloud.rain.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/inside_old_train.mp3"
     },
     {
       "name": "ISLAND AT NIGHT",
@@ -1284,12 +1338,30 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rain_stick.mp3"
     },
     {
+      "name": "ROOSTER CROWING",
+      "fileName": "rooster_crowing",
+      "iconName": "sparkles",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rooster_crowing.mp3"
+    },
+    {
       "name": "SHEEP",
       "fileName": "sheep",
       "iconName": "sheep",
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/sheep.mp3"
+    },
+    {
+      "name": "SHIP HORN DISTANT",
+      "fileName": "ship_horn_distant",
+      "iconName": "star.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ship_horn_distant.mp3"
     },
     {
       "name": "SINGING BOWL",
@@ -1338,6 +1410,24 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tongue_drum.mp3"
+    },
+    {
+      "name": "TRAIN",
+      "fileName": "train",
+      "iconName": "cloud.rain.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/train.mp3"
+    },
+    {
+      "name": "TRAIN HORN FADES",
+      "fileName": "train_horn_fades",
+      "iconName": "cloud.rain.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/train_horn_fades.mp3"
     },
     {
       "name": "TRANQUIL OCEAN",
