@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1385,6 +1385,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/The_Mind_Leads_A_Things.mp3"
     },
     {
+      "name": "THIS ONE FOR YOU",
+      "fileName": "This_One_For_You",
+      "iconName": "leaf.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/This_One_For_You.mp3"
+    },
+    {
       "name": "VAN GOGH",
       "fileName": "Van_Gogh",
       "iconName": "moon.stars.fill",
@@ -1392,6 +1401,24 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Van_Gogh.mp3"
+    },
+    {
+      "name": "WHEN I FALL IN LOVE",
+      "fileName": "When_I_Fall_In_Love",
+      "iconName": "moon.stars.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_I_Fall_In_Love.mp3"
+    },
+    {
+      "name": "WHEN YOU WISH UPON A STAR",
+      "fileName": "When_You_Wish_Upon_A_Star",
+      "iconName": "star.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_You_Wish_Upon_A_Star.mp3"
     },
     {
       "name": "WHENEVER IT RAINS",
@@ -1446,6 +1473,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY.mp3"
+    },
+    {
+      "name": "YESTERDAY ONCE MORE",
+      "fileName": "Yesterday_Once_More",
+      "iconName": "moon.stars.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Yesterday_Once_More.mp3"
     },
     {
       "name": "DEEP CALM",
