@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1194,6 +1194,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/The_Mind_Leads_A_Things.mp3"
+    },
+    {
+      "name": "WHITE SNOW",
+      "fileName": "White_Snow",
+      "iconName": "snowflake",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/White_Snow.mp3"
     },
     {
       "name": "YOUR GENETIC CODE IS A COSMIC LIBRARY",
