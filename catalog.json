@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1052,6 +1052,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/August.mp3"
     },
     {
+      "name": "BALLADE POUR ADELINE",
+      "fileName": "Ballade_Pour_Adeline",
+      "iconName": "cloud.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Ballade_Pour_Adeline.mp3"
+    },
+    {
       "name": "BLOOMING FLOWERS",
       "fileName": "Blooming_Flowers",
       "iconName": "circle.circle.fill",
@@ -1097,6 +1106,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Dacquoise.mp3"
     },
     {
+      "name": "EVERGREEN",
+      "fileName": "Evergreen",
+      "iconName": "leaf.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Evergreen.mp3"
+    },
+    {
       "name": "FIVE ELEMENT MUSIC THERAPY",
       "fileName": "Five_Element_Music_Therapy",
       "iconName": "heart.fill",
@@ -1104,6 +1122,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Five_Element_Music_Therapy.mp3"
+    },
+    {
+      "name": "FOR ALL WE KNOW",
+      "fileName": "For_All_We_Know",
+      "iconName": "wind",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/For_All_We_Know.mp3"
     },
     {
       "name": "FOX RAIN",
@@ -1160,6 +1187,33 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/How_Do_I_Love_Thee.mp3"
     },
     {
+      "name": "I MADE IT THROUGH THE RAIN",
+      "fileName": "I_Made_It_Through_The_Rain",
+      "iconName": "cloud.rain.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/I_Made_It_Through_The_Rain.mp3"
+    },
+    {
+      "name": "IF",
+      "fileName": "If",
+      "iconName": "heart.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/If.mp3"
+    },
+    {
+      "name": "IN MY LIFE",
+      "fileName": "In_My_Life",
+      "iconName": "leaf.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/In_My_Life.mp3"
+    },
+    {
       "name": "LIMIT",
       "fileName": "Limit",
       "iconName": "music.note",
@@ -1187,6 +1241,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_of_the_Nigh_1.mp3"
     },
     {
+      "name": "MEMORY",
+      "fileName": "Memory",
+      "iconName": "moon.stars.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Memory.mp3"
+    },
+    {
       "name": "MEMORY IN THE RAIN",
       "fileName": "Memory_in_the_Rain",
       "iconName": "cloud.rain.fill",
@@ -1205,6 +1268,24 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Our_Night_Is_More_Beautiful_Than_Your_Day.mp3"
     },
     {
+      "name": "PLACES THAT BELONG TO YOU",
+      "fileName": "Places_That_Belong_To_You",
+      "iconName": "drop.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Places_That_Belong_To_You.mp3"
+    },
+    {
+      "name": "RIVER FLOWS IN YOU",
+      "fileName": "River_Flows_In_You",
+      "iconName": "water.waves",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/River_Flows_In_You.mp3"
+    },
+    {
       "name": "SEPTEMBER",
       "fileName": "September",
       "iconName": "heart.fill",
@@ -1221,6 +1302,24 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Silent_Breath.mp3"
+    },
+    {
+      "name": "SOMEWHERE",
+      "fileName": "Somewhere",
+      "iconName": "circle.circle.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere.mp3"
+    },
+    {
+      "name": "SOMEWHERE OUT THERE",
+      "fileName": "Somewhere_Out_There",
+      "iconName": "circle.circle.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere_Out_There.mp3"
     },
     {
       "name": "THE MOTHERLAND CALLS YOU HOME",
@@ -1266,6 +1365,15 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_TECHNOLOGY_OF_THE_STARS_IS_IN_YOUR_CELLS.mp3"
+    },
+    {
+      "name": "THAT WHAT LOVE IS FOR",
+      "fileName": "That_What_Love_Is_For",
+      "iconName": "heart.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/That_What_Love_Is_For.mp3"
     },
     {
       "name": "THE MIND LEADS A THINGS",
