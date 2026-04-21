@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1084,6 +1084,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_forest_nature.mp3"
     },
     {
+      "name": "BIRDS WILDLIFE",
+      "fileName": "birds_wildlife",
+      "iconName": "bird.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_wildlife.mp3"
+    },
+    {
       "name": "BLIZZARD",
       "fileName": "blizzard",
       "iconName": "blizzard",
@@ -1200,6 +1209,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/forest_rain.mp3"
     },
     {
+      "name": "FOREST WOODPECKER",
+      "fileName": "forest_woodpecker",
+      "iconName": "tree.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/forest_woodpecker.mp3"
+    },
+    {
       "name": "FROGS",
       "fileName": "frogs",
       "iconName": "frogs",
@@ -1298,6 +1316,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/mountain_wind.mp3"
     },
     {
+      "name": "NIGHT FOREST SOUNDSCAPE",
+      "fileName": "night_forest_soundscape",
+      "iconName": "tree.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/night_forest_soundscape.mp3"
+    },
+    {
       "name": "NIGHTINGALE",
       "fileName": "nightingale",
       "iconName": "nightingale",
@@ -1336,6 +1363,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rain_stick.mp3"
+    },
+    {
+      "name": "RIVER SOUNDS",
+      "fileName": "river_sounds",
+      "iconName": "water.waves",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/river_sounds.mp3"
     },
     {
       "name": "ROOSTER CROWING",
@@ -1378,6 +1414,15 @@
       "category": "nature",
       "isLocked": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/spring_birds.mp3"
+    },
+    {
+      "name": "SPRING FOREST NATURE",
+      "fileName": "spring_forest_nature",
+      "iconName": "tree.fill",
+      "category": "nature",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/spring_forest_nature.mp3"
     },
     {
       "name": "STORM AT SEA",
