@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "categories": [
     {
       "id": "baby_sleep",
@@ -1988,6 +1988,15 @@
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Yesterday_Once_More.mp3"
     },
     {
+      "name": "CHINESE ZEN FLUTE",
+      "fileName": "chinese_zen_flute",
+      "iconName": "music.note",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/chinese_zen_flute.mp3"
+    },
+    {
       "name": "DEEP CALM",
       "fileName": "deep_calm",
       "iconName": "waveform.path",
@@ -2004,6 +2013,24 @@
       "isLocked": false,
       "isNew": true,
       "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/gentle_breeze.mp3"
+    },
+    {
+      "name": "INNER PEACE",
+      "fileName": "inner_peace",
+      "iconName": "leaf.circle.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/inner_peace.mp3"
+    },
+    {
+      "name": "LAW OF KARMA",
+      "fileName": "law_of_karma",
+      "iconName": "drop.fill",
+      "category": "zen_hit",
+      "isLocked": false,
+      "isNew": true,
+      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/law_of_karma.mp3"
     },
     {
       "name": "PEACEFUL MORNING",
