@@ -1,2045 +1,2015 @@
 {
-  "version": 36,
-  "categories": [
+  "categories" : [
     {
-      "id": "baby_sleep",
-      "title": "Baby Sleep",
-      "subtitle": "Gentle lullabies",
-      "iconName": "moon.zzz.fill",
-      "colors": [
+      "colors" : [
         "#9B59B6",
         "#3F51B5"
-      ]
+      ],
+      "iconName" : "moon.zzz.fill",
+      "id" : "baby_sleep",
+      "subtitle" : "Gentle lullabies",
+      "title" : "Baby Sleep"
     },
     {
-      "id": "meditation_hz",
-      "title": "Healing Frequencies",
-      "subtitle": "Sound healing",
-      "iconName": "waveform.path",
-      "colors": [
+      "colors" : [
         "#FF9800",
         "#FFEB3B"
-      ]
+      ],
+      "iconName" : "waveform.path",
+      "id" : "meditation_hz",
+      "subtitle" : "Sound healing",
+      "title" : "Healing Frequencies"
     },
     {
-      "id": "meditation_music",
-      "title": "Zen & Yoga",
-      "subtitle": "Meditation & yoga music",
-      "iconName": "sparkles",
-      "colors": [
+      "colors" : [
         "#E91E63",
         "#9B59B6"
-      ]
+      ],
+      "iconName" : "sparkles",
+      "id" : "meditation_music",
+      "subtitle" : "Meditation & yoga music",
+      "title" : "Zen & Yoga"
     },
     {
-      "id": "nature",
-      "title": "Nature Sounds",
-      "subtitle": "Relax with nature",
-      "iconName": "leaf.fill",
-      "colors": [
+      "colors" : [
         "#33D96B",
         "#00BCD4"
-      ]
+      ],
+      "iconName" : "leaf.fill",
+      "id" : "nature",
+      "subtitle" : "Relax with nature",
+      "title" : "Nature Sounds"
     },
     {
-      "id": "zen_hit",
-      "title": "Zen Hit",
-      "subtitle": "Explore zen hit",
-      "iconName": "music.note",
-      "colors": [
+      "colors" : [
         "#00BCD4",
         "#2196F3"
-      ]
+      ],
+      "iconName" : "music.note",
+      "id" : "zen_hit",
+      "subtitle" : "Explore zen hit",
+      "title" : "Zen Hit"
     }
   ],
-  "sounds": [
-    {
-      "name": "A SWEET BAKER",
-      "fileName": "A_Sweet_Baker",
-      "iconName": "wind",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/A_Sweet_Baker.mp3"
-    },
-    {
-      "name": "ARE YOU SLEEPING",
-      "fileName": "Are_You_Sleeping",
-      "iconName": "moon.zzz.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Are_You_Sleeping.mp3"
-    },
-    {
-      "name": "BAA BAA LITTLE LAMB",
-      "fileName": "Baa_Baa_Little_Lamb",
-      "iconName": "drop.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Baa_Baa_Little_Lamb.mp3"
-    },
-    {
-      "name": "BACH CANTATA",
-      "fileName": "Bach_Cantata",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Bach_Cantata.mp3"
-    },
-    {
-      "name": "BRAHMS LULLABY",
-      "fileName": "Brahms_Lullaby",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Brahms_Lullaby.mp3"
-    },
-    {
-      "name": "BRAHMS LULLABY MUSIC BOX",
-      "fileName": "Brahms_Lullaby_Music_Box",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Brahms_Lullaby_Music_Box.mp3"
-    },
-    {
-      "name": "BUTTERFLY ON THE WIND",
-      "fileName": "Butterfly_On_The_Wind",
-      "iconName": "wind",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Butterfly_On_The_Wind.mp3"
-    },
-    {
-      "name": "CRADLE SONG",
-      "fileName": "Cradle_Song",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Cradle_Song.mp3"
-    },
-    {
-      "name": "FIVE LITTLE DUCKS",
-      "fileName": "Five_Little_Ducks",
-      "iconName": "bird.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Five_Little_Ducks.mp3"
-    },
-    {
-      "name": "FLOWER TIME",
-      "fileName": "Flower_Time",
-      "iconName": "star.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Flower_Time.mp3"
-    },
-    {
-      "name": "FLOWERING MEADOWS",
-      "fileName": "Flowering_Meadows",
-      "iconName": "wind",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Flowering_Meadows.mp3"
-    },
-    {
-      "name": "FRERE JACQUES",
-      "fileName": "Frere_Jacques",
-      "iconName": "flame.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Frere_Jacques.mp3"
-    },
-    {
-      "name": "GENTLE SUMMER BREEZE",
-      "fileName": "Gentle_Summer_Breeze",
-      "iconName": "leaf.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Gentle_Summer_Breeze.mp3"
-    },
-    {
-      "name": "HAVE YOU SEEN MR MUSHROOM",
-      "fileName": "Have_You_Seen_Mr_Mushroom",
-      "iconName": "circle.circle.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Have_You_Seen_Mr_Mushroom.mp3"
-    },
-    {
-      "name": "HEY DIDDLE DIDDLE",
-      "fileName": "Hey_Diddle_Diddle",
-      "iconName": "music.note",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Hey_Diddle_Diddle.mp3"
-    },
-    {
-      "name": "HUSH LITTLE BABY",
-      "fileName": "Hush_Little_Baby",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Hush_Little_Baby.mp3"
-    },
-    {
-      "name": "LITTLE BO PEEP",
-      "fileName": "Little_Bo_Peep",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Bo_Peep.mp3"
-    },
-    {
-      "name": "LITTLE LASSIE",
-      "fileName": "Little_Lassie",
-      "iconName": "star.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Lassie.mp3"
-    },
-    {
-      "name": "LITTLE SHEPHERD BOY",
-      "fileName": "Little_Shepherd_Boy",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Shepherd_Boy.mp3"
-    },
-    {
-      "name": "MOTHERS LITTLE BOY",
-      "fileName": "Mothers_Little_Boy",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Mothers_Little_Boy.mp3"
-    },
-    {
-      "name": "MY SUNSHINE",
-      "fileName": "My_Sunshine",
-      "iconName": "sun.max.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/My_Sunshine.mp3"
-    },
-    {
-      "name": "PEACEFUL BABY",
-      "fileName": "Peaceful_Baby",
-      "iconName": "leaf.circle.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Peaceful_Baby.mp3"
-    },
-    {
-      "name": "PLAYING HOUSE",
-      "fileName": "Playing_House",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Playing_House.mp3"
-    },
-    {
-      "name": "RAIN RAIN GO AWAY",
-      "fileName": "Rain_Rain_Go_Away",
-      "iconName": "cloud.rain.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Rain_Rain_Go_Away.mp3"
-    },
-    {
-      "name": "ROW ROW ROW YOUR BOAT",
-      "fileName": "Row_Row_Row_Your_Boat",
-      "iconName": "wind",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Row_Row_Row_Your_Boat.mp3"
-    },
-    {
-      "name": "SAFE IN MY ARMS",
-      "fileName": "Safe_In_My_Arms",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Safe_In_My_Arms.mp3"
-    },
-    {
-      "name": "SAILING IN CALM WATERS",
-      "fileName": "Sailing_In_Calm_Waters",
-      "iconName": "wind",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Sailing_In_Calm_Waters.mp3"
-    },
-    {
-      "name": "STAR LIGHT STAR BRIGHT",
-      "fileName": "Star_Light_Star_Bright",
-      "iconName": "star.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Star_Light_Star_Bright.mp3"
-    },
-    {
-      "name": "THE SAILORS LULLABY",
-      "fileName": "The_Sailors_Lullaby",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Sailors_Lullaby.mp3"
-    },
-    {
-      "name": "THE SPARKLING SUN LULLABY",
-      "fileName": "The_Sparkling_Sun_Lullaby",
-      "iconName": "sun.max.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Sparkling_Sun_Lullaby.mp3"
-    },
-    {
-      "name": "THE SQUIRREL SONG",
-      "fileName": "The_Squirrel_Song",
-      "iconName": "cloud.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Squirrel_Song.mp3"
-    },
-    {
-      "name": "THE WILLOW LULLABY",
-      "fileName": "The_Willow_Lullaby",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Willow_Lullaby.mp3"
-    },
-    {
-      "name": "TINY BLUE FLOWERS",
-      "fileName": "Tiny_Blue_Flowers",
-      "iconName": "heart.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Tiny_Blue_Flowers.mp3"
-    },
-    {
-      "name": "TWINKLE TWINKLE LITTLE STAR",
-      "fileName": "Twinkle_Twinkle_Little_Star",
-      "iconName": "star.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Twinkle_Twinkle_Little_Star.mp3"
-    },
-    {
-      "name": "WHEN THE LITTLE ONE ARRIVED",
-      "fileName": "When_The_Little_One_Arrived",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/When_The_Little_One_Arrived.mp3"
-    },
-    {
-      "name": "CREEK",
-      "fileName": "baby_creek",
-      "iconName": "drop.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_creek.mp3"
-    },
-    {
-      "name": "DREAMY",
-      "fileName": "baby_dreamy",
-      "iconName": "cloud.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_dreamy.mp3"
-    },
-    {
-      "name": "FAN NOISE",
-      "fileName": "baby_fan_noise",
-      "iconName": "fan.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_fan_noise.mp3"
-    },
-    {
-      "name": "GENTLE PIANO",
-      "fileName": "baby_gentle_piano",
-      "iconName": "pianokeys",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_gentle_piano.mp3"
-    },
-    {
-      "name": "GUITAR",
-      "fileName": "baby_guitar",
-      "iconName": "guitars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_guitar.mp3"
-    },
-    {
-      "name": "HAIRDRYER",
-      "fileName": "baby_hairdryer",
-      "iconName": "wind",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_hairdryer.mp3"
-    },
-    {
-      "name": "HEARTBEAT",
-      "fileName": "baby_heartbeat",
-      "iconName": "heart.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_heartbeat.mp3"
-    },
-    {
-      "name": "HUMMING",
-      "fileName": "baby_humming",
-      "iconName": "person.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_humming.mp3"
-    },
-    {
-      "name": "LULLABY",
-      "fileName": "baby_lullaby",
-      "iconName": "moon.stars.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_lullaby.mp3"
-    },
-    {
-      "name": "MOBILE",
-      "fileName": "baby_mobile",
-      "iconName": "star.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_mobile.mp3"
-    },
-    {
-      "name": "MUSIC BOX",
-      "fileName": "baby_music_box",
-      "iconName": "music.note",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_music_box.mp3"
-    },
-    {
-      "name": "BABY OCEAN",
-      "fileName": "baby_ocean",
-      "iconName": "water.waves",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_ocean.mp3"
-    },
-    {
-      "name": "SHUSHING",
-      "fileName": "baby_shushing",
-      "iconName": "mouth.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_shushing.mp3"
-    },
-    {
-      "name": "SLEEP RAIN",
-      "fileName": "baby_sleep_rain",
-      "iconName": "cloud.rain.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_sleep_rain.mp3"
-    },
-    {
-      "name": "SOFT HARP",
-      "fileName": "baby_soft_harp",
-      "iconName": "music.quarternote.3",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_soft_harp.mp3"
-    },
-    {
-      "name": "TWINKLE",
-      "fileName": "baby_twinkle",
-      "iconName": "sparkles",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_twinkle.mp3"
-    },
-    {
-      "name": "VACUUM",
-      "fileName": "baby_vacuum",
-      "iconName": "circle.dotted",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_vacuum.mp3"
-    },
-    {
-      "name": "WHITE NOISE",
-      "fileName": "baby_white_noise",
-      "iconName": "waveform",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_white_noise.mp3"
-    },
-    {
-      "name": "WIND CHIMES",
-      "fileName": "baby_wind_chimes",
-      "iconName": "bell.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_wind_chimes.mp3"
-    },
-    {
-      "name": "WOMB SOUNDS",
-      "fileName": "baby_womb",
-      "iconName": "circle.circle.fill",
-      "category": "baby_sleep",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_womb.mp3"
-    },
-    {
-      "name": "40HZ GAMMA FOCUS FLOW",
-      "fileName": "40Hz_Gamma_Focus_Flow",
-      "iconName": "bolt.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/40Hz_Gamma_Focus_Flow.mp3"
-    },
-    {
-      "name": "432HZ 528HZ 741HZ",
-      "fileName": "432Hz_528Hz_741Hz",
-      "iconName": "waveform.path",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/432Hz_528Hz_741Hz.mp3"
-    },
-    {
-      "name": "ALPHA FOCUS",
-      "fileName": "alpha_focus",
-      "iconName": "brain.head.profile",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/alpha_focus.mp3"
-    },
-    {
-      "name": "BINAURAL CALM",
-      "fileName": "binaural_calm",
-      "iconName": "waveform",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/binaural_calm.mp3"
-    },
-    {
-      "name": "DELTA DEEP SLEEP",
-      "fileName": "delta_deep_sleep",
-      "iconName": "bed.double.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/delta_deep_sleep.mp3"
-    },
-    {
-      "name": "GAMMA FOCUS",
-      "fileName": "gamma_focus",
-      "iconName": "bolt.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/gamma_focus.mp3"
-    },
-    {
-      "name": "174 HZ RELIEF",
-      "fileName": "hz_174_relief",
-      "iconName": "cross.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_174_relief.mp3"
-    },
-    {
-      "name": "285 HZ HEALING",
-      "fileName": "hz_285_healing",
-      "iconName": "staroflife.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_285_healing.mp3"
-    },
-    {
-      "name": "396 HZ RELEASE",
-      "fileName": "hz_396_release",
-      "iconName": "wind",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_396_release.mp3"
-    },
-    {
-      "name": "417 HZ CHANGE",
-      "fileName": "hz_417_change",
-      "iconName": "arrow.triangle.2.circlepath",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_417_change.mp3"
-    },
-    {
-      "name": "432 HZ DEEP",
-      "fileName": "hz_432_deep",
-      "iconName": "waveform.path",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_432_deep.mp3"
-    },
-    {
-      "name": "528 HZ LOVE",
-      "fileName": "hz_528_love",
-      "iconName": "heart.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_528_love.mp3"
-    },
-    {
-      "name": "528 HZ RAIN",
-      "fileName": "hz_528_rain",
-      "iconName": "cloud.rain.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_528_rain.mp3"
-    },
-    {
-      "name": "639 HZ HEART",
-      "fileName": "hz_639_heart",
-      "iconName": "heart.circle.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_639_heart.mp3"
-    },
-    {
-      "name": "741 HZ DETOX",
-      "fileName": "hz_741_detox",
-      "iconName": "leaf.arrow.circlepath",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_741_detox.mp3"
-    },
-    {
-      "name": "852 HZ INTUITION",
-      "fileName": "hz_852_intuition",
-      "iconName": "eye.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_852_intuition.mp3"
-    },
-    {
-      "name": "963 HZ CROWN",
-      "fileName": "hz_963_crown",
-      "iconName": "crown.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_963_crown.mp3"
-    },
-    {
-      "name": "OM CHANTING",
-      "fileName": "om_chanting",
-      "iconName": "circle.circle.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/om_chanting.mp3"
-    },
-    {
-      "name": "PIANO 432 HZ",
-      "fileName": "piano_432",
-      "iconName": "pianokeys",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/piano_432.mp3"
-    },
-    {
-      "name": "THETA SLEEP",
-      "fileName": "theta_sleep",
-      "iconName": "moon.zzz.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/theta_sleep.mp3"
-    },
-    {
-      "name": "THETA WHITE",
-      "fileName": "theta_white_noise",
-      "iconName": "waveform.path.ecg",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/theta_white_noise.mp3"
-    },
-    {
-      "name": "TIBETAN BOWLS",
-      "fileName": "tibetan_bowls_432",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "meditation_hz",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/tibetan_bowls_432.mp3"
-    },
-    {
-      "name": "CALM THE MIND",
-      "fileName": "Calm_The_Mind",
-      "iconName": "wind",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Calm_The_Mind.mp3"
-    },
-    {
-      "name": "DEEP HEALING FLOW",
-      "fileName": "Deep_Healing_Flow",
-      "iconName": "staroflife.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Deep_Healing_Flow.mp3"
-    },
-    {
-      "name": "OM ARHAM",
-      "fileName": "OM_ARHAM",
-      "iconName": "circle.circle.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/OM_ARHAM.mp3"
-    },
-    {
-      "name": "OM NAMO NARAYANAYA",
-      "fileName": "Om_Namo_Narayanaya",
-      "iconName": "circle.circle.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Om_Namo_Narayanaya.mp3"
-    },
-    {
-      "name": "OM TRYAMBAKAM YAJAMAHE",
-      "fileName": "Om_Tryambakam_Yajamahe",
-      "iconName": "circle.circle.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Om_Tryambakam_Yajamahe.mp3"
-    },
-    {
-      "name": "SACRED BALANCE",
-      "fileName": "Sacred_Balance",
-      "iconName": "person.3.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Sacred_Balance.mp3"
-    },
-    {
-      "name": "SHRI RAM JAI RAM JAI JAI RAM",
-      "fileName": "Shri_Ram_Jai_Ram_Jai_Jai_Ram",
-      "iconName": "moon.stars.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Shri_Ram_Jai_Ram_Jai_Jai_Ram.mp3"
-    },
-    {
-      "name": "SLEEP MUSIC",
-      "fileName": "Sleep_Music",
-      "iconName": "moon.zzz.fill",
-      "category": "meditation_music",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Sleep_Music.mp3"
-    },
-    {
-      "name": "SOFT RELAXING",
-      "fileName": "Soft_Relaxing_Music",
-      "iconName": "moon.haze.fill",
-      "category": "meditation_music",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Soft_Relaxing_Music.mp3"
-    },
-    {
-      "name": "THE PORTAL TO ANDROMEDA",
-      "fileName": "The_Portal_To_Andromeda",
-      "iconName": "circle.circle.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/The_Portal_To_Andromeda.mp3"
-    },
-    {
-      "name": "CRYSTAL BOWLS",
-      "fileName": "crystal_singing_bowls",
-      "iconName": "sparkles",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/crystal_singing_bowls.mp3"
-    },
-    {
-      "name": "AMBIENT PAD",
-      "fileName": "med_ambient_pad",
-      "iconName": "waveform",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_ambient_pad.mp3"
-    },
-    {
-      "name": "BAMBOO WATER",
-      "fileName": "med_bamboo_water",
-      "iconName": "drop.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_bamboo_water.mp3"
-    },
-    {
-      "name": "CHANTING",
-      "fileName": "med_chanting",
-      "iconName": "person.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_chanting.mp3"
-    },
-    {
-      "name": "DEEP SPACE",
-      "fileName": "med_deep_space",
-      "iconName": "moon.stars.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_deep_space.mp3"
-    },
-    {
-      "name": "DRONE",
-      "fileName": "med_drone",
-      "iconName": "waveform.path",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_drone.mp3"
-    },
-    {
-      "name": "HANG DRUM",
-      "fileName": "med_hang_drum",
-      "iconName": "circle.circle.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_hang_drum.mp3"
-    },
-    {
-      "name": "HEALING HARP",
-      "fileName": "med_healing_harp",
-      "iconName": "star.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_healing_harp.mp3"
-    },
-    {
-      "name": "INDIAN SITAR",
-      "fileName": "med_indian_sitar",
-      "iconName": "guitars.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_indian_sitar.mp3"
-    },
-    {
-      "name": "KOTO",
-      "fileName": "med_koto",
-      "iconName": "music.quarternote.3",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_koto.mp3"
-    },
-    {
-      "name": "OCEAN MANTRA",
-      "fileName": "med_ocean_mantra",
-      "iconName": "water.waves",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_ocean_mantra.mp3"
-    },
-    {
-      "name": "RAIN TEMPLE",
-      "fileName": "med_rain_temple",
-      "iconName": "cloud.rain.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_rain_temple.mp3"
-    },
-    {
-      "name": "SACRED CHOIR",
-      "fileName": "med_sacred_choir",
-      "iconName": "person.3.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_sacred_choir.mp3"
-    },
-    {
-      "name": "SHAKUHACHI",
-      "fileName": "med_shakuhachi",
-      "iconName": "wind",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_shakuhachi.mp3"
-    },
-    {
-      "name": "SOFT PIANO",
-      "fileName": "med_soft_piano",
-      "iconName": "pianokeys",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_soft_piano.mp3"
-    },
-    {
-      "name": "TEMPLE GONG",
-      "fileName": "med_temple_gong",
-      "iconName": "circle.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_temple_gong.mp3"
-    },
-    {
-      "name": "TIBETAN SINGING",
-      "fileName": "med_tibetan_singing",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_tibetan_singing.mp3"
-    },
-    {
-      "name": "WIND BELLS",
-      "fileName": "med_wind_bells",
-      "iconName": "bell.fill",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_wind_bells.mp3"
-    },
-    {
-      "name": "YOGA FLOW",
-      "fileName": "med_yoga_flow",
-      "iconName": "figure.mind.and.body",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_yoga_flow.mp3"
-    },
-    {
-      "name": "ZEN FLUTE",
-      "fileName": "med_zen_flute",
-      "iconName": "music.note",
-      "category": "meditation_music",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_zen_flute.mp3"
-    },
-    {
-      "name": "BIRD CARDINAL",
-      "fileName": "Bird_cardinal",
-      "iconName": "bird.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Bird_cardinal.mp3"
-    },
-    {
-      "name": "CLEAR YOUR NEGATIVE ENERGY",
-      "fileName": "Clear_your_negative_energy",
-      "iconName": "bolt.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Clear_your_negative_energy.mp3"
-    },
-    {
-      "name": "KALIMBA",
-      "fileName": "Kalimba",
-      "iconName": "kalimba",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Kalimba.mp3"
-    },
-    {
-      "name": "SPRING FOREST",
-      "fileName": "Spring_Forest_Nature",
-      "iconName": "leaf.fill",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Spring_Forest_Nature.mp3"
-    },
-    {
-      "name": "TIBETAN SINGING BOWLS",
-      "fileName": "Tibetan_Singing_Bowls",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Tibetan_Singing_Bowls.mp3"
-    },
-    {
-      "name": "TINGSHA VOICE CAN CLEAR NEGATIVE THOUGHTS",
-      "fileName": "Tingsha_voice_can_clear_negative_thoughts",
-      "iconName": "snowflake",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Tingsha_voice_can_clear_negative_thoughts.mp3"
-    },
-    {
-      "name": "AMBIENT DESERT",
-      "fileName": "ambient_desert",
-      "iconName": "desert",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ambient_desert.mp3"
-    },
-    {
-      "name": "AMBIENT WOODLAND",
-      "fileName": "ambient_woodland",
-      "iconName": "woodland",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ambient_woodland.mp3"
-    },
-    {
-      "name": "APPROACHING STORM",
-      "fileName": "approaching_storm",
-      "iconName": "storm",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/approaching_storm.mp3"
-    },
-    {
-      "name": "BAMBOO FOREST",
-      "fileName": "bamboo_forest",
-      "iconName": "bamboo",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/bamboo_forest.mp3"
-    },
-    {
-      "name": "BIRDS",
-      "fileName": "birds",
-      "iconName": "bird.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds.mp3"
-    },
-    {
-      "name": "BIRDS 432HZ",
-      "fileName": "birds_432hz",
-      "iconName": "bird.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_432hz.mp3"
-    },
-    {
-      "name": "BIRDS AMBIANCE",
-      "fileName": "birds_ambiance",
-      "iconName": "bird.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_ambiance.mp3"
-    },
-    {
-      "name": "BIRDS CHIRPING",
-      "fileName": "birds_chirping",
-      "iconName": "bird.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_chirping.mp3"
-    },
-    {
-      "name": "BIRDS FOREST NATURE",
-      "fileName": "birds_forest_nature",
-      "iconName": "bird.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_forest_nature.mp3"
-    },
-    {
-      "name": "BIRDS WILDLIFE",
-      "fileName": "birds_wildlife",
-      "iconName": "bird.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_wildlife.mp3"
-    },
-    {
-      "name": "BLIZZARD",
-      "fileName": "blizzard",
-      "iconName": "blizzard",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/blizzard.mp3"
-    },
-    {
-      "name": "CALM AT SEA",
-      "fileName": "calm_at_sea",
-      "iconName": "sea",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/calm_at_sea.mp3"
-    },
-    {
-      "name": "CALM COUNTRYSIDE",
-      "fileName": "calm_countryside",
-      "iconName": "countryside",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/calm_countryside.mp3"
-    },
-    {
-      "name": "CAMPFIRE",
-      "fileName": "campfire",
-      "iconName": "campfire",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/campfire.mp3"
-    },
-    {
-      "name": "CAMPING AT NIGHT",
-      "fileName": "camping_at_night",
-      "iconName": "camping",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/camping_at_night.mp3"
-    },
-    {
-      "name": "CAVE SOUNDS",
-      "fileName": "cave_sounds",
-      "iconName": "cave",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/cave_sounds.mp3"
-    },
-    {
-      "name": "CHICKEN",
-      "fileName": "chicken",
-      "iconName": "leaf.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chicken.mp3"
-    },
-    {
-      "name": "CHICKEN CHILD SOUND",
-      "fileName": "chicken_Child_sound",
-      "iconName": "circle.hexagongrid.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chicken_Child_sound.mp3"
-    },
-    {
-      "name": "CHRIBONN NATURE",
-      "fileName": "chribonn_nature",
-      "iconName": "heart.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chribonn_nature.mp3"
-    },
-    {
-      "name": "COW BELL IN NATURE",
-      "fileName": "cow_bell_in_nature",
-      "iconName": "bell.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/cow_bell_in_nature.mp3"
-    },
-    {
-      "name": "CRICKETS",
-      "fileName": "crickets",
-      "iconName": "crickets",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/crickets.mp3"
-    },
-    {
-      "name": "DISTANT THUNDER",
-      "fileName": "distant_thunder",
-      "iconName": "distantthunder",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/distant_thunder.mp3"
-    },
-    {
-      "name": "DUCKS",
-      "fileName": "ducks",
-      "iconName": "ducks",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ducks.mp3"
-    },
-    {
-      "name": "FOREST RAIN",
-      "fileName": "forest_rain",
-      "iconName": "forest",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/forest_rain.mp3"
-    },
-    {
-      "name": "FOREST WOODPECKER",
-      "fileName": "forest_woodpecker",
-      "iconName": "tree.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/forest_woodpecker.mp3"
-    },
-    {
-      "name": "FROGS",
-      "fileName": "frogs",
-      "iconName": "frogs",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/frogs.mp3"
-    },
-    {
-      "name": "GENTLE STREAM",
-      "fileName": "gentle_stream",
-      "iconName": "stream",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/gentle_stream.mp3"
-    },
-    {
-      "name": "HARBOUR BIRDS",
-      "fileName": "harbour_birds",
-      "iconName": "birds",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/harbour_birds.mp3"
-    },
-    {
-      "name": "HAUNTED GHOST SHIP",
-      "fileName": "haunted_ghost_ship",
-      "iconName": "wind",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/haunted_ghost_ship.mp3"
-    },
-    {
-      "name": "HORSE",
-      "fileName": "horse",
-      "iconName": "horse",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/horse.mp3"
-    },
-    {
-      "name": "INSIDE OLD TRAIN",
-      "fileName": "inside_old_train",
-      "iconName": "cloud.rain.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/inside_old_train.mp3"
-    },
-    {
-      "name": "ISLAND AT NIGHT",
-      "fileName": "island_at_night",
-      "iconName": "island",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/island_at_night.mp3"
-    },
-    {
-      "name": "JUNGLE SOUNDS",
-      "fileName": "jungle_sounds",
-      "iconName": "jungle",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/jungle_sounds.mp3"
-    },
-    {
-      "name": "LAKE WAVES",
-      "fileName": "lake_waves",
-      "iconName": "lake",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/lake_waves.mp3"
-    },
-    {
-      "name": "LEAVES",
-      "fileName": "leaves",
-      "iconName": "leaves",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/leaves.mp3"
-    },
-    {
-      "name": "MORNING BROOK",
-      "fileName": "morning_brook",
-      "iconName": "brook",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/morning_brook.mp3"
-    },
-    {
-      "name": "MOUNTAIN WIND",
-      "fileName": "mountain_wind",
-      "iconName": "mountain",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/mountain_wind.mp3"
-    },
-    {
-      "name": "NIGHT FOREST SOUNDSCAPE",
-      "fileName": "night_forest_soundscape",
-      "iconName": "tree.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/night_forest_soundscape.mp3"
-    },
-    {
-      "name": "NIGHTINGALE",
-      "fileName": "nightingale",
-      "iconName": "nightingale",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/nightingale.mp3"
-    },
-    {
-      "name": "OCEAN AT NIGHT",
-      "fileName": "ocean_at_night",
-      "iconName": "oceannight",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ocean_at_night.mp3"
-    },
-    {
-      "name": "OCEAN DRUM",
-      "fileName": "ocean_drum",
-      "iconName": "oceandrum",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ocean_drum.mp3"
-    },
-    {
-      "name": "RAIN ON LEAVES",
-      "fileName": "rain_on_leaves",
-      "iconName": "rainleaves",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rain_on_leaves.mp3"
-    },
-    {
-      "name": "RAIN STICK",
-      "fileName": "rain_stick",
-      "iconName": "rainstick",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rain_stick.mp3"
-    },
-    {
-      "name": "RIVER SOUNDS",
-      "fileName": "river_sounds",
-      "iconName": "water.waves",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/river_sounds.mp3"
-    },
-    {
-      "name": "ROOSTER CROWING",
-      "fileName": "rooster_crowing",
-      "iconName": "sparkles",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rooster_crowing.mp3"
-    },
-    {
-      "name": "SHEEP",
-      "fileName": "sheep",
-      "iconName": "sheep",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/sheep.mp3"
-    },
-    {
-      "name": "SHIP HORN DISTANT",
-      "fileName": "ship_horn_distant",
-      "iconName": "star.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ship_horn_distant.mp3"
-    },
-    {
-      "name": "SINGING BOWL",
-      "fileName": "singing_bowl",
-      "iconName": "singingbowl",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/singing_bowl.mp3"
-    },
-    {
-      "name": "SPRING BIRDS",
-      "fileName": "spring_birds",
-      "iconName": "springbirds",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/spring_birds.mp3"
-    },
-    {
-      "name": "SPRING FOREST NATURE",
-      "fileName": "spring_forest_nature",
-      "iconName": "tree.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/spring_forest_nature.mp3"
-    },
-    {
-      "name": "STORM AT SEA",
-      "fileName": "storm_at_sea",
-      "iconName": "stormsea",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/storm_at_sea.mp3"
-    },
-    {
-      "name": "THUNDER NOISE",
-      "fileName": "thunder_noise",
-      "iconName": "thundernoise",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/thunder_noise.mp3"
-    },
-    {
-      "name": "THUNDER & RAIN",
-      "fileName": "thunder_rain",
-      "iconName": "thunder",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/thunder_rain.mp3"
-    },
-    {
-      "name": "TONGUE DRUM",
-      "fileName": "tongue_drum",
-      "iconName": "tonguedrum",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tongue_drum.mp3"
-    },
-    {
-      "name": "TRAIN",
-      "fileName": "train",
-      "iconName": "cloud.rain.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/train.mp3"
-    },
-    {
-      "name": "TRAIN HORN FADES",
-      "fileName": "train_horn_fades",
-      "iconName": "cloud.rain.fill",
-      "category": "nature",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/train_horn_fades.mp3"
-    },
-    {
-      "name": "TRANQUIL OCEAN",
-      "fileName": "tranquil_ocean",
-      "iconName": "ocean",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tranquil_ocean.mp3"
-    },
-    {
-      "name": "TROPICAL RAIN",
-      "fileName": "tropical_rain",
-      "iconName": "cloud.heavyrain.fill",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tropical_rain.mp3"
-    },
-    {
-      "name": "WATERFALL",
-      "fileName": "waterfall",
-      "iconName": "waterfall",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/waterfall.mp3"
-    },
-    {
-      "name": "WHALE SOUNDS",
-      "fileName": "whale_sounds",
-      "iconName": "whale",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/whale_sounds.mp3"
-    },
-    {
-      "name": "WIND CHIMES",
-      "fileName": "wind_chimes",
-      "iconName": "windchimes",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/wind_chimes.mp3"
-    },
-    {
-      "name": "WINDY VALLEY",
-      "fileName": "windy_valley",
-      "iconName": "valley",
-      "category": "nature",
-      "isLocked": false,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/windy_valley.mp3"
-    },
-    {
-      "name": "WOODEN FLUTE",
-      "fileName": "wooden_flute",
-      "iconName": "woodenflute",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/wooden_flute.mp3"
-    },
-    {
-      "name": "WOODPECKER",
-      "fileName": "woodpecker",
-      "iconName": "woodpecker",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/woodpecker.mp3"
-    },
-    {
-      "name": "ZEN GARDEN",
-      "fileName": "zen_garden",
-      "iconName": "zen",
-      "category": "nature",
-      "isLocked": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
-    },
-    {
-      "name": "AUGUST",
-      "fileName": "August",
-      "iconName": "heart.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/August.mp3"
-    },
-    {
-      "name": "BALLADE POUR ADELINE",
-      "fileName": "Ballade_Pour_Adeline",
-      "iconName": "cloud.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Ballade_Pour_Adeline.mp3"
-    },
-    {
-      "name": "BLOOMING FLOWERS",
-      "fileName": "Blooming_Flowers",
-      "iconName": "circle.circle.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Blooming_Flowers.mp3"
-    },
-    {
-      "name": "BLUE BUTTERFLY",
-      "fileName": "Blue_Butterfly",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Blue_Butterfly.mp3"
-    },
-    {
-      "name": "BODY IN THE WORLD MIND OUTSIDE THE WORLD",
-      "fileName": "Body_In_The_World_Mind_Outside_The_World",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Body_In_The_World_Mind_Outside_The_World.mp3"
-    },
-    {
-      "name": "BROKENMIND",
-      "fileName": "BrokenMind",
-      "iconName": "flame.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/BrokenMind.mp3"
-    },
-    {
-      "name": "DACQUOISE",
-      "fileName": "Dacquoise",
-      "iconName": "flame.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Dacquoise.mp3"
-    },
-    {
-      "name": "EVERGREEN",
-      "fileName": "Evergreen",
-      "iconName": "leaf.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Evergreen.mp3"
-    },
-    {
-      "name": "FIVE ELEMENT MUSIC THERAPY",
-      "fileName": "Five_Element_Music_Therapy",
-      "iconName": "heart.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Five_Element_Music_Therapy.mp3"
-    },
-    {
-      "name": "FOR ALL WE KNOW",
-      "fileName": "For_All_We_Know",
-      "iconName": "wind",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/For_All_We_Know.mp3"
-    },
-    {
-      "name": "FOX RAIN",
-      "fileName": "Fox_Rain",
-      "iconName": "cloud.rain.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Fox_Rain.mp3"
-    },
-    {
-      "name": "FOX RAIN 1",
-      "fileName": "Fox_Rain_1",
-      "iconName": "cloud.rain.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Fox_Rain_1.mp3"
-    },
-    {
-      "name": "GRAVE OF INFATUATION",
-      "fileName": "Grave_of_Infatuation",
-      "iconName": "star.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Grave_of_Infatuation.mp3"
-    },
-    {
-      "name": "GREEN TARA MANTRA",
-      "fileName": "Green_Tara_Mantra",
-      "iconName": "water.waves",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Green_Tara_Mantra.mp3"
-    },
-    {
-      "name": "HEALING SOUNDS FOR INNER PEACE",
-      "fileName": "Healing_Sounds_for_Inner_Peace",
-      "iconName": "leaf.circle.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Healing_Sounds_for_Inner_Peace.mp3"
-    },
-    {
-      "name": "HOW DO I LOVE THEE",
-      "fileName": "How_Do_I_Love_Thee",
-      "iconName": "star.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/How_Do_I_Love_Thee.mp3"
-    },
-    {
-      "name": "I MADE IT THROUGH THE RAIN",
-      "fileName": "I_Made_It_Through_The_Rain",
-      "iconName": "cloud.rain.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/I_Made_It_Through_The_Rain.mp3"
-    },
-    {
-      "name": "IF",
-      "fileName": "If",
-      "iconName": "heart.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/If.mp3"
-    },
-    {
-      "name": "IN MY LIFE",
-      "fileName": "In_My_Life",
-      "iconName": "leaf.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/In_My_Life.mp3"
-    },
-    {
-      "name": "LIMIT",
-      "fileName": "Limit",
-      "iconName": "music.note",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Limit.mp3"
-    },
-    {
-      "name": "MELODY OF THE NIGHT",
-      "fileName": "Melody_Of_The_Night",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_Of_The_Night.mp3"
-    },
-    {
-      "name": "MELODY OF THE NIGH 1",
-      "fileName": "Melody_of_the_Nigh_1",
-      "iconName": "star.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_of_the_Nigh_1.mp3"
-    },
-    {
-      "name": "MEMORY",
-      "fileName": "Memory",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Memory.mp3"
-    },
-    {
-      "name": "MEMORY IN THE RAIN",
-      "fileName": "Memory_in_the_Rain",
-      "iconName": "cloud.rain.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Memory_in_the_Rain.mp3"
-    },
-    {
-      "name": "OUR NIGHT IS MORE BEAUTIFUL THAN YOUR DAY",
-      "fileName": "Our_Night_Is_More_Beautiful_Than_Your_Day",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Our_Night_Is_More_Beautiful_Than_Your_Day.mp3"
-    },
-    {
-      "name": "PLACES THAT BELONG TO YOU",
-      "fileName": "Places_That_Belong_To_You",
-      "iconName": "drop.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Places_That_Belong_To_You.mp3"
-    },
-    {
-      "name": "RIVER FLOWS IN YOU",
-      "fileName": "River_Flows_In_You",
-      "iconName": "water.waves",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/River_Flows_In_You.mp3"
-    },
-    {
-      "name": "SEPTEMBER",
-      "fileName": "September",
-      "iconName": "heart.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/September.mp3"
-    },
-    {
-      "name": "SILENT BREATH",
-      "fileName": "Silent_Breath",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Silent_Breath.mp3"
-    },
-    {
-      "name": "SOMEWHERE",
-      "fileName": "Somewhere",
-      "iconName": "circle.circle.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere.mp3"
-    },
-    {
-      "name": "SOMEWHERE OUT THERE",
-      "fileName": "Somewhere_Out_There",
-      "iconName": "circle.circle.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere_Out_There.mp3"
-    },
-    {
-      "name": "THE MOTHERLAND CALLS YOU HOME",
-      "fileName": "THE_MOTHERLAND_CALLS_YOU_HOME",
-      "iconName": "circle.circle.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_MOTHERLAND_CALLS_YOU_HOME.mp3"
-    },
-    {
-      "name": "THE PORTAL TO ANDROMEDA IS OPEN RECLAIM YOUR FREEDOM",
-      "fileName": "THE_PORTAL_TO_ANDROMEDA_IS_OPEN_RECLAIM_YOUR_FREEDOM",
-      "iconName": "circle.circle.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_PORTAL_TO_ANDROMEDA_IS_OPEN_RECLAIM_YOUR_FREEDOM.mp3"
-    },
-    {
-      "name": "THE STARS ARE SINGING TO YOUR CELLS",
-      "fileName": "THE_STARS_ARE_SINGING_TO_YOUR_CELLS",
-      "iconName": "star.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_STARS_ARE_SINGING_TO_YOUR_CELLS.mp3"
-    },
-    {
-      "name": "THE STELLAR ALLIANCE IS IN YOU FIELD",
-      "fileName": "THE_STELLAR_ALLIANCE_IS_IN_YOU_FIELD",
-      "iconName": "cloud.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_STELLAR_ALLIANCE_IS_IN_YOU_FIELD.mp3"
-    },
-    {
-      "name": "THE TECHNOLOGY OF THE STARS IS IN YOUR CELLS",
-      "fileName": "THE_TECHNOLOGY_OF_THE_STARS_IS_IN_YOUR_CELLS",
-      "iconName": "star.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_TECHNOLOGY_OF_THE_STARS_IS_IN_YOUR_CELLS.mp3"
-    },
-    {
-      "name": "THAT WHAT LOVE IS FOR",
-      "fileName": "That_What_Love_Is_For",
-      "iconName": "heart.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/That_What_Love_Is_For.mp3"
-    },
-    {
-      "name": "THE MIND LEADS A THINGS",
-      "fileName": "The_Mind_Leads_A_Things",
-      "iconName": "waveform.path",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/The_Mind_Leads_A_Things.mp3"
-    },
-    {
-      "name": "THIS ONE FOR YOU",
-      "fileName": "This_One_For_You",
-      "iconName": "leaf.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/This_One_For_You.mp3"
-    },
-    {
-      "name": "VAN GOGH",
-      "fileName": "Van_Gogh",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Van_Gogh.mp3"
-    },
-    {
-      "name": "WHEN I FALL IN LOVE",
-      "fileName": "When_I_Fall_In_Love",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_I_Fall_In_Love.mp3"
-    },
-    {
-      "name": "WHEN YOU WISH UPON A STAR",
-      "fileName": "When_You_Wish_Upon_A_Star",
-      "iconName": "star.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_You_Wish_Upon_A_Star.mp3"
-    },
-    {
-      "name": "WHENEVER IT RAINS",
-      "fileName": "Whenever_It_Rains",
-      "iconName": "cloud.rain.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Whenever_It_Rains.mp3"
-    },
-    {
-      "name": "WHITE SNOW",
-      "fileName": "White_Snow",
-      "iconName": "snowflake",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/White_Snow.mp3"
-    },
-    {
-      "name": "WHO LOVIN YOU",
-      "fileName": "Who_Lovin_You",
-      "iconName": "wind",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Who_Lovin_You.mp3"
-    },
-    {
-      "name": "WOUND",
-      "fileName": "Wound",
-      "iconName": "sparkles",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Wound.mp3"
-    },
-    {
-      "name": "WOUND 1",
-      "fileName": "Wound_1",
-      "iconName": "waveform.path",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Wound_1.mp3"
-    },
-    {
-      "name": "YOUR GENETIC CODE IS A COSMIC LIBRARY",
-      "fileName": "YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY",
-      "iconName": "star.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY.mp3"
-    },
-    {
-      "name": "YESTERDAY ONCE MORE",
-      "fileName": "Yesterday_Once_More",
-      "iconName": "moon.stars.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Yesterday_Once_More.mp3"
-    },
-    {
-      "name": "CHINESE ZEN FLUTE",
-      "fileName": "chinese_zen_flute",
-      "iconName": "music.note",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/chinese_zen_flute.mp3"
-    },
-    {
-      "name": "DEEP CALM",
-      "fileName": "deep_calm",
-      "iconName": "waveform.path",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/deep_calm.mp3"
-    },
-    {
-      "name": "GENTLE BREEZE",
-      "fileName": "gentle_breeze",
-      "iconName": "wind",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/gentle_breeze.mp3"
-    },
-    {
-      "name": "INNER PEACE",
-      "fileName": "inner_peace",
-      "iconName": "leaf.circle.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/inner_peace.mp3"
-    },
-    {
-      "name": "LAW OF KARMA",
-      "fileName": "law_of_karma",
-      "iconName": "drop.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/law_of_karma.mp3"
-    },
-    {
-      "name": "PEACEFUL MORNING",
-      "fileName": "peaceful_morning",
-      "iconName": "sunrise.fill",
-      "category": "zen_hit",
-      "isLocked": false,
-      "isNew": true,
-      "url": "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/peaceful_morning.mp3"
+  "removedSounds" : [
+    "Ballade_Pour_Adeline",
+    "For_All_We_Know",
+    "Fox_Rain",
+    "Fox_Rain_1"
+  ],
+  "sounds" : [
+    {
+      "category" : "baby_sleep",
+      "fileName" : "A_Sweet_Baker",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "A SWEET BAKER",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/A_Sweet_Baker.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Are_You_Sleeping",
+      "iconName" : "moon.zzz.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "ARE YOU SLEEPING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Are_You_Sleeping.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Baa_Baa_Little_Lamb",
+      "iconName" : "drop.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BAA BAA LITTLE LAMB",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Baa_Baa_Little_Lamb.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Bach_Cantata",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BACH CANTATA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Bach_Cantata.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Brahms_Lullaby",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BRAHMS LULLABY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Brahms_Lullaby.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Brahms_Lullaby_Music_Box",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BRAHMS LULLABY MUSIC BOX",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Brahms_Lullaby_Music_Box.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Butterfly_On_The_Wind",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BUTTERFLY ON THE WIND",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Butterfly_On_The_Wind.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Cradle_Song",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "CRADLE SONG",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Cradle_Song.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Five_Little_Ducks",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "FIVE LITTLE DUCKS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Five_Little_Ducks.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Flower_Time",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "FLOWER TIME",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Flower_Time.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Flowering_Meadows",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "FLOWERING MEADOWS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Flowering_Meadows.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Frere_Jacques",
+      "iconName" : "flame.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "FRERE JACQUES",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Frere_Jacques.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Gentle_Summer_Breeze",
+      "iconName" : "leaf.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "GENTLE SUMMER BREEZE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Gentle_Summer_Breeze.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Have_You_Seen_Mr_Mushroom",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "HAVE YOU SEEN MR MUSHROOM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Have_You_Seen_Mr_Mushroom.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Hey_Diddle_Diddle",
+      "iconName" : "music.note",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "HEY DIDDLE DIDDLE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Hey_Diddle_Diddle.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Hush_Little_Baby",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "HUSH LITTLE BABY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Hush_Little_Baby.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Little_Bo_Peep",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "LITTLE BO PEEP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Bo_Peep.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Little_Lassie",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "LITTLE LASSIE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Lassie.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Little_Shepherd_Boy",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "LITTLE SHEPHERD BOY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Little_Shepherd_Boy.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Mothers_Little_Boy",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "MOTHERS LITTLE BOY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Mothers_Little_Boy.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "My_Sunshine",
+      "iconName" : "sun.max.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "MY SUNSHINE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/My_Sunshine.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Peaceful_Baby",
+      "iconName" : "leaf.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "PEACEFUL BABY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Peaceful_Baby.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Playing_House",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "PLAYING HOUSE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Playing_House.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Rain_Rain_Go_Away",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "RAIN RAIN GO AWAY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Rain_Rain_Go_Away.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Row_Row_Row_Your_Boat",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "ROW ROW ROW YOUR BOAT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Row_Row_Row_Your_Boat.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Safe_In_My_Arms",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SAFE IN MY ARMS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Safe_In_My_Arms.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Sailing_In_Calm_Waters",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SAILING IN CALM WATERS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Sailing_In_Calm_Waters.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Star_Light_Star_Bright",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "STAR LIGHT STAR BRIGHT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Star_Light_Star_Bright.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "The_Sailors_Lullaby",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE SAILORS LULLABY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Sailors_Lullaby.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "The_Sparkling_Sun_Lullaby",
+      "iconName" : "sun.max.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE SPARKLING SUN LULLABY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Sparkling_Sun_Lullaby.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "The_Squirrel_Song",
+      "iconName" : "cloud.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE SQUIRREL SONG",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Squirrel_Song.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "The_Willow_Lullaby",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE WILLOW LULLABY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/The_Willow_Lullaby.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Tiny_Blue_Flowers",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "TINY BLUE FLOWERS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Tiny_Blue_Flowers.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "Twinkle_Twinkle_Little_Star",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "TWINKLE TWINKLE LITTLE STAR",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/Twinkle_Twinkle_Little_Star.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "When_The_Little_One_Arrived",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WHEN THE LITTLE ONE ARRIVED",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/When_The_Little_One_Arrived.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_creek",
+      "iconName" : "drop.fill",
+      "isLocked" : false,
+      "name" : "CREEK",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_creek.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_dreamy",
+      "iconName" : "cloud.fill",
+      "isLocked" : false,
+      "name" : "DREAMY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_dreamy.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_fan_noise",
+      "iconName" : "fan.fill",
+      "isLocked" : false,
+      "name" : "FAN NOISE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_fan_noise.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_gentle_piano",
+      "iconName" : "pianokeys",
+      "isLocked" : false,
+      "name" : "GENTLE PIANO",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_gentle_piano.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_guitar",
+      "iconName" : "guitars.fill",
+      "isLocked" : false,
+      "name" : "GUITAR",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_guitar.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_hairdryer",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "name" : "HAIRDRYER",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_hairdryer.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_heartbeat",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "name" : "HEARTBEAT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_heartbeat.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_humming",
+      "iconName" : "person.fill",
+      "isLocked" : false,
+      "name" : "HUMMING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_humming.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_lullaby",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "name" : "LULLABY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_lullaby.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_mobile",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "name" : "MOBILE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_mobile.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_music_box",
+      "iconName" : "music.note",
+      "isLocked" : false,
+      "name" : "MUSIC BOX",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_music_box.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_ocean",
+      "iconName" : "water.waves",
+      "isLocked" : false,
+      "name" : "BABY OCEAN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_ocean.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_shushing",
+      "iconName" : "mouth.fill",
+      "isLocked" : false,
+      "name" : "SHUSHING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_shushing.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_sleep_rain",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "name" : "SLEEP RAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_sleep_rain.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_soft_harp",
+      "iconName" : "music.quarternote.3",
+      "isLocked" : false,
+      "name" : "SOFT HARP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_soft_harp.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_twinkle",
+      "iconName" : "sparkles",
+      "isLocked" : false,
+      "name" : "TWINKLE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_twinkle.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_vacuum",
+      "iconName" : "circle.dotted",
+      "isLocked" : false,
+      "name" : "VACUUM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_vacuum.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_white_noise",
+      "iconName" : "waveform",
+      "isLocked" : false,
+      "name" : "WHITE NOISE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_white_noise.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_wind_chimes",
+      "iconName" : "bell.fill",
+      "isLocked" : false,
+      "name" : "WIND CHIMES",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_wind_chimes.mp3"
+    },
+    {
+      "category" : "baby_sleep",
+      "fileName" : "baby_womb",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "name" : "WOMB SOUNDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/baby_sleep/baby_womb.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "40Hz_Gamma_Focus_Flow",
+      "iconName" : "bolt.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "40HZ GAMMA FOCUS FLOW",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/40Hz_Gamma_Focus_Flow.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "432Hz_528Hz_741Hz",
+      "iconName" : "waveform.path",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "432HZ 528HZ 741HZ",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/432Hz_528Hz_741Hz.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "alpha_focus",
+      "iconName" : "brain.head.profile",
+      "isLocked" : false,
+      "name" : "ALPHA FOCUS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/alpha_focus.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "binaural_calm",
+      "iconName" : "waveform",
+      "isLocked" : false,
+      "name" : "BINAURAL CALM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/binaural_calm.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "delta_deep_sleep",
+      "iconName" : "bed.double.fill",
+      "isLocked" : false,
+      "name" : "DELTA DEEP SLEEP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/delta_deep_sleep.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "gamma_focus",
+      "iconName" : "bolt.fill",
+      "isLocked" : false,
+      "name" : "GAMMA FOCUS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/gamma_focus.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_174_relief",
+      "iconName" : "cross.fill",
+      "isLocked" : false,
+      "name" : "174 HZ RELIEF",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_174_relief.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_285_healing",
+      "iconName" : "staroflife.fill",
+      "isLocked" : false,
+      "name" : "285 HZ HEALING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_285_healing.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_396_release",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "name" : "396 HZ RELEASE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_396_release.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_417_change",
+      "iconName" : "arrow.triangle.2.circlepath",
+      "isLocked" : false,
+      "name" : "417 HZ CHANGE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_417_change.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_432_deep",
+      "iconName" : "waveform.path",
+      "isLocked" : false,
+      "name" : "432 HZ DEEP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_432_deep.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_528_love",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "name" : "528 HZ LOVE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_528_love.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_528_rain",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "name" : "528 HZ RAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_528_rain.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_639_heart",
+      "iconName" : "heart.circle.fill",
+      "isLocked" : false,
+      "name" : "639 HZ HEART",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_639_heart.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_741_detox",
+      "iconName" : "leaf.arrow.circlepath",
+      "isLocked" : false,
+      "name" : "741 HZ DETOX",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_741_detox.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_852_intuition",
+      "iconName" : "eye.fill",
+      "isLocked" : false,
+      "name" : "852 HZ INTUITION",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_852_intuition.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "hz_963_crown",
+      "iconName" : "crown.fill",
+      "isLocked" : false,
+      "name" : "963 HZ CROWN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/hz_963_crown.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "om_chanting",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "name" : "OM CHANTING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/om_chanting.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "piano_432",
+      "iconName" : "pianokeys",
+      "isLocked" : false,
+      "name" : "PIANO 432 HZ",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/piano_432.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "theta_sleep",
+      "iconName" : "moon.zzz.fill",
+      "isLocked" : false,
+      "name" : "THETA SLEEP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/theta_sleep.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "theta_white_noise",
+      "iconName" : "waveform.path.ecg",
+      "isLocked" : false,
+      "name" : "THETA WHITE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/theta_white_noise.mp3"
+    },
+    {
+      "category" : "meditation_hz",
+      "fileName" : "tibetan_bowls_432",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "name" : "TIBETAN BOWLS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_hz/tibetan_bowls_432.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Calm_The_Mind",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "CALM THE MIND",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Calm_The_Mind.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Deep_Healing_Flow",
+      "iconName" : "staroflife.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "DEEP HEALING FLOW",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Deep_Healing_Flow.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "OM_ARHAM",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "OM ARHAM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/OM_ARHAM.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Om_Namo_Narayanaya",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "OM NAMO NARAYANAYA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Om_Namo_Narayanaya.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Om_Tryambakam_Yajamahe",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "OM TRYAMBAKAM YAJAMAHE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Om_Tryambakam_Yajamahe.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Sacred_Balance",
+      "iconName" : "person.3.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SACRED BALANCE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Sacred_Balance.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Shri_Ram_Jai_Ram_Jai_Jai_Ram",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SHRI RAM JAI RAM JAI JAI RAM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Shri_Ram_Jai_Ram_Jai_Jai_Ram.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Sleep_Music",
+      "iconName" : "moon.zzz.fill",
+      "isLocked" : true,
+      "name" : "SLEEP MUSIC",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Sleep_Music.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "Soft_Relaxing_Music",
+      "iconName" : "moon.haze.fill",
+      "isLocked" : true,
+      "name" : "SOFT RELAXING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/Soft_Relaxing_Music.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "The_Portal_To_Andromeda",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE PORTAL TO ANDROMEDA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/The_Portal_To_Andromeda.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "crystal_singing_bowls",
+      "iconName" : "sparkles",
+      "isLocked" : false,
+      "name" : "CRYSTAL BOWLS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/crystal_singing_bowls.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_ambient_pad",
+      "iconName" : "waveform",
+      "isLocked" : false,
+      "name" : "AMBIENT PAD",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_ambient_pad.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_bamboo_water",
+      "iconName" : "drop.fill",
+      "isLocked" : false,
+      "name" : "BAMBOO WATER",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_bamboo_water.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_chanting",
+      "iconName" : "person.fill",
+      "isLocked" : false,
+      "name" : "CHANTING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_chanting.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_deep_space",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "name" : "DEEP SPACE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_deep_space.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_drone",
+      "iconName" : "waveform.path",
+      "isLocked" : false,
+      "name" : "DRONE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_drone.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_hang_drum",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "name" : "HANG DRUM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_hang_drum.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_healing_harp",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "name" : "HEALING HARP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_healing_harp.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_indian_sitar",
+      "iconName" : "guitars.fill",
+      "isLocked" : false,
+      "name" : "INDIAN SITAR",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_indian_sitar.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_koto",
+      "iconName" : "music.quarternote.3",
+      "isLocked" : false,
+      "name" : "KOTO",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_koto.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_ocean_mantra",
+      "iconName" : "water.waves",
+      "isLocked" : false,
+      "name" : "OCEAN MANTRA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_ocean_mantra.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_rain_temple",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "name" : "RAIN TEMPLE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_rain_temple.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_sacred_choir",
+      "iconName" : "person.3.fill",
+      "isLocked" : false,
+      "name" : "SACRED CHOIR",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_sacred_choir.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_shakuhachi",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "name" : "SHAKUHACHI",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_shakuhachi.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_soft_piano",
+      "iconName" : "pianokeys",
+      "isLocked" : false,
+      "name" : "SOFT PIANO",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_soft_piano.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_temple_gong",
+      "iconName" : "circle.fill",
+      "isLocked" : false,
+      "name" : "TEMPLE GONG",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_temple_gong.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_tibetan_singing",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "name" : "TIBETAN SINGING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_tibetan_singing.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_wind_bells",
+      "iconName" : "bell.fill",
+      "isLocked" : false,
+      "name" : "WIND BELLS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_wind_bells.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_yoga_flow",
+      "iconName" : "figure.mind.and.body",
+      "isLocked" : false,
+      "name" : "YOGA FLOW",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_yoga_flow.mp3"
+    },
+    {
+      "category" : "meditation_music",
+      "fileName" : "med_zen_flute",
+      "iconName" : "music.note",
+      "isLocked" : false,
+      "name" : "ZEN FLUTE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/meditation_music/med_zen_flute.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "Bird_cardinal",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BIRD CARDINAL",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Bird_cardinal.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "Clear_your_negative_energy",
+      "iconName" : "bolt.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "CLEAR YOUR NEGATIVE ENERGY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Clear_your_negative_energy.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "Kalimba",
+      "iconName" : "kalimba",
+      "isLocked" : true,
+      "name" : "KALIMBA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Kalimba.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "Spring_Forest_Nature",
+      "iconName" : "leaf.fill",
+      "isLocked" : true,
+      "name" : "SPRING FOREST",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Spring_Forest_Nature.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "Tibetan_Singing_Bowls",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "TIBETAN SINGING BOWLS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Tibetan_Singing_Bowls.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "Tingsha_voice_can_clear_negative_thoughts",
+      "iconName" : "snowflake",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "TINGSHA VOICE CAN CLEAR NEGATIVE THOUGHTS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Tingsha_voice_can_clear_negative_thoughts.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "ambient_desert",
+      "iconName" : "desert",
+      "isLocked" : true,
+      "name" : "AMBIENT DESERT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ambient_desert.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "ambient_woodland",
+      "iconName" : "woodland",
+      "isLocked" : false,
+      "name" : "AMBIENT WOODLAND",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ambient_woodland.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "approaching_storm",
+      "iconName" : "storm",
+      "isLocked" : true,
+      "name" : "APPROACHING STORM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/approaching_storm.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "bamboo_forest",
+      "iconName" : "bamboo",
+      "isLocked" : true,
+      "name" : "BAMBOO FOREST",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/bamboo_forest.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "birds",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BIRDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "birds_432hz",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BIRDS 432HZ",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_432hz.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "birds_ambiance",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BIRDS AMBIANCE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_ambiance.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "birds_chirping",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BIRDS CHIRPING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_chirping.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "birds_forest_nature",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BIRDS FOREST NATURE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_forest_nature.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "birds_wildlife",
+      "iconName" : "bird.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BIRDS WILDLIFE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/birds_wildlife.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "blizzard",
+      "iconName" : "blizzard",
+      "isLocked" : false,
+      "name" : "BLIZZARD",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/blizzard.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "calm_at_sea",
+      "iconName" : "sea",
+      "isLocked" : false,
+      "name" : "CALM AT SEA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/calm_at_sea.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "calm_countryside",
+      "iconName" : "countryside",
+      "isLocked" : true,
+      "name" : "CALM COUNTRYSIDE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/calm_countryside.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "campfire",
+      "iconName" : "campfire",
+      "isLocked" : false,
+      "name" : "CAMPFIRE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/campfire.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "camping_at_night",
+      "iconName" : "camping",
+      "isLocked" : true,
+      "name" : "CAMPING AT NIGHT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/camping_at_night.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "cave_sounds",
+      "iconName" : "cave",
+      "isLocked" : true,
+      "name" : "CAVE SOUNDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/cave_sounds.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "chicken",
+      "iconName" : "leaf.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "CHICKEN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chicken.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "chicken_Child_sound",
+      "iconName" : "circle.hexagongrid.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "CHICKEN CHILD SOUND",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chicken_Child_sound.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "chribonn_nature",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "CHRIBONN NATURE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/chribonn_nature.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "cow_bell_in_nature",
+      "iconName" : "bell.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "COW BELL IN NATURE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/cow_bell_in_nature.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "crickets",
+      "iconName" : "crickets",
+      "isLocked" : true,
+      "name" : "CRICKETS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/crickets.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "distant_thunder",
+      "iconName" : "distantthunder",
+      "isLocked" : true,
+      "name" : "DISTANT THUNDER",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/distant_thunder.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "ducks",
+      "iconName" : "ducks",
+      "isLocked" : true,
+      "name" : "DUCKS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ducks.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "forest_rain",
+      "iconName" : "forest",
+      "isLocked" : false,
+      "name" : "FOREST RAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/forest_rain.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "forest_woodpecker",
+      "iconName" : "tree.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "FOREST WOODPECKER",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/forest_woodpecker.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "frogs",
+      "iconName" : "frogs",
+      "isLocked" : true,
+      "name" : "FROGS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/frogs.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "gentle_stream",
+      "iconName" : "stream",
+      "isLocked" : true,
+      "name" : "GENTLE STREAM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/gentle_stream.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "harbour_birds",
+      "iconName" : "birds",
+      "isLocked" : false,
+      "name" : "HARBOUR BIRDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/harbour_birds.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "haunted_ghost_ship",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "HAUNTED GHOST SHIP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/haunted_ghost_ship.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "horse",
+      "iconName" : "horse",
+      "isLocked" : true,
+      "name" : "HORSE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/horse.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "inside_old_train",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "INSIDE OLD TRAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/inside_old_train.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "island_at_night",
+      "iconName" : "island",
+      "isLocked" : true,
+      "name" : "ISLAND AT NIGHT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/island_at_night.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "jungle_sounds",
+      "iconName" : "jungle",
+      "isLocked" : true,
+      "name" : "JUNGLE SOUNDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/jungle_sounds.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "lake_waves",
+      "iconName" : "lake",
+      "isLocked" : false,
+      "name" : "LAKE WAVES",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/lake_waves.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "leaves",
+      "iconName" : "leaves",
+      "isLocked" : true,
+      "name" : "LEAVES",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/leaves.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "morning_brook",
+      "iconName" : "brook",
+      "isLocked" : true,
+      "name" : "MORNING BROOK",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/morning_brook.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "mountain_wind",
+      "iconName" : "mountain",
+      "isLocked" : true,
+      "name" : "MOUNTAIN WIND",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/mountain_wind.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "night_forest_soundscape",
+      "iconName" : "tree.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "NIGHT FOREST SOUNDSCAPE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/night_forest_soundscape.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "nightingale",
+      "iconName" : "nightingale",
+      "isLocked" : true,
+      "name" : "NIGHTINGALE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/nightingale.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "ocean_at_night",
+      "iconName" : "oceannight",
+      "isLocked" : true,
+      "name" : "OCEAN AT NIGHT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ocean_at_night.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "ocean_drum",
+      "iconName" : "oceandrum",
+      "isLocked" : true,
+      "name" : "OCEAN DRUM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ocean_drum.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "rain_on_leaves",
+      "iconName" : "rainleaves",
+      "isLocked" : true,
+      "name" : "RAIN ON LEAVES",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rain_on_leaves.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "rain_stick",
+      "iconName" : "rainstick",
+      "isLocked" : true,
+      "name" : "RAIN STICK",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rain_stick.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "river_sounds",
+      "iconName" : "water.waves",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "RIVER SOUNDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/river_sounds.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "rooster_crowing",
+      "iconName" : "sparkles",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "ROOSTER CROWING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/rooster_crowing.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "sheep",
+      "iconName" : "sheep",
+      "isLocked" : true,
+      "name" : "SHEEP",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/sheep.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "ship_horn_distant",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SHIP HORN DISTANT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ship_horn_distant.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "singing_bowl",
+      "iconName" : "singingbowl",
+      "isLocked" : true,
+      "name" : "SINGING BOWL",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/singing_bowl.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "spring_birds",
+      "iconName" : "springbirds",
+      "isLocked" : true,
+      "name" : "SPRING BIRDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/spring_birds.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "spring_forest_nature",
+      "iconName" : "tree.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SPRING FOREST NATURE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/spring_forest_nature.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "storm_at_sea",
+      "iconName" : "stormsea",
+      "isLocked" : true,
+      "name" : "STORM AT SEA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/storm_at_sea.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "thunder_noise",
+      "iconName" : "thundernoise",
+      "isLocked" : false,
+      "name" : "THUNDER NOISE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/thunder_noise.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "thunder_rain",
+      "iconName" : "thunder",
+      "isLocked" : true,
+      "name" : "THUNDER & RAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/thunder_rain.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "tongue_drum",
+      "iconName" : "tonguedrum",
+      "isLocked" : true,
+      "name" : "TONGUE DRUM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tongue_drum.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "train",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "TRAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/train.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "train_horn_fades",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "TRAIN HORN FADES",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/train_horn_fades.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "tranquil_ocean",
+      "iconName" : "ocean",
+      "isLocked" : false,
+      "name" : "TRANQUIL OCEAN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tranquil_ocean.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "tropical_rain",
+      "iconName" : "cloud.heavyrain.fill",
+      "isLocked" : true,
+      "name" : "TROPICAL RAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/tropical_rain.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "waterfall",
+      "iconName" : "waterfall",
+      "isLocked" : true,
+      "name" : "WATERFALL",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/waterfall.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "whale_sounds",
+      "iconName" : "whale",
+      "isLocked" : true,
+      "name" : "WHALE SOUNDS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/whale_sounds.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "wind_chimes",
+      "iconName" : "windchimes",
+      "isLocked" : true,
+      "name" : "WIND CHIMES",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/wind_chimes.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "windy_valley",
+      "iconName" : "valley",
+      "isLocked" : false,
+      "name" : "WINDY VALLEY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/windy_valley.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "wooden_flute",
+      "iconName" : "woodenflute",
+      "isLocked" : true,
+      "name" : "WOODEN FLUTE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/wooden_flute.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "woodpecker",
+      "iconName" : "woodpecker",
+      "isLocked" : true,
+      "name" : "WOODPECKER",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/woodpecker.mp3"
+    },
+    {
+      "category" : "nature",
+      "fileName" : "zen_garden",
+      "iconName" : "zen",
+      "isLocked" : true,
+      "name" : "ZEN GARDEN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/zen_garden.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "August",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "AUGUST",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/August.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Blooming_Flowers",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BLOOMING FLOWERS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Blooming_Flowers.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Blue_Butterfly",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BLUE BUTTERFLY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Blue_Butterfly.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Body_In_The_World_Mind_Outside_The_World",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BODY IN THE WORLD MIND OUTSIDE THE WORLD",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Body_In_The_World_Mind_Outside_The_World.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "BrokenMind",
+      "iconName" : "flame.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "BROKENMIND",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/BrokenMind.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Dacquoise",
+      "iconName" : "flame.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "DACQUOISE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Dacquoise.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Evergreen",
+      "iconName" : "leaf.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "EVERGREEN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Evergreen.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Five_Element_Music_Therapy",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "FIVE ELEMENT MUSIC THERAPY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Five_Element_Music_Therapy.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Grave_of_Infatuation",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "GRAVE OF INFATUATION",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Grave_of_Infatuation.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Green_Tara_Mantra",
+      "iconName" : "water.waves",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "GREEN TARA MANTRA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Green_Tara_Mantra.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Healing_Sounds_for_Inner_Peace",
+      "iconName" : "leaf.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "HEALING SOUNDS FOR INNER PEACE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Healing_Sounds_for_Inner_Peace.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "How_Do_I_Love_Thee",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "HOW DO I LOVE THEE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/How_Do_I_Love_Thee.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "I_Made_It_Through_The_Rain",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "I MADE IT THROUGH THE RAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/I_Made_It_Through_The_Rain.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "If",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "IF",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/If.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "In_My_Life",
+      "iconName" : "leaf.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "IN MY LIFE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/In_My_Life.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Limit",
+      "iconName" : "music.note",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "LIMIT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Limit.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Melody_Of_The_Night",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "MELODY OF THE NIGHT",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_Of_The_Night.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Melody_of_the_Nigh_1",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "MELODY OF THE NIGH 1",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_of_the_Nigh_1.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Memory",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "MEMORY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Memory.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Memory_in_the_Rain",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "MEMORY IN THE RAIN",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Memory_in_the_Rain.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Our_Night_Is_More_Beautiful_Than_Your_Day",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "OUR NIGHT IS MORE BEAUTIFUL THAN YOUR DAY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Our_Night_Is_More_Beautiful_Than_Your_Day.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Places_That_Belong_To_You",
+      "iconName" : "drop.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "PLACES THAT BELONG TO YOU",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Places_That_Belong_To_You.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "River_Flows_In_You",
+      "iconName" : "water.waves",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "RIVER FLOWS IN YOU",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/River_Flows_In_You.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "September",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SEPTEMBER",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/September.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Silent_Breath",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SILENT BREATH",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Silent_Breath.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Somewhere",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SOMEWHERE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Somewhere_Out_There",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "SOMEWHERE OUT THERE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere_Out_There.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "THE_MOTHERLAND_CALLS_YOU_HOME",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE MOTHERLAND CALLS YOU HOME",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_MOTHERLAND_CALLS_YOU_HOME.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "THE_PORTAL_TO_ANDROMEDA_IS_OPEN_RECLAIM_YOUR_FREEDOM",
+      "iconName" : "circle.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE PORTAL TO ANDROMEDA IS OPEN RECLAIM YOUR FREEDOM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_PORTAL_TO_ANDROMEDA_IS_OPEN_RECLAIM_YOUR_FREEDOM.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "THE_STARS_ARE_SINGING_TO_YOUR_CELLS",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE STARS ARE SINGING TO YOUR CELLS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_STARS_ARE_SINGING_TO_YOUR_CELLS.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "THE_STELLAR_ALLIANCE_IS_IN_YOU_FIELD",
+      "iconName" : "cloud.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE STELLAR ALLIANCE IS IN YOU FIELD",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_STELLAR_ALLIANCE_IS_IN_YOU_FIELD.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "THE_TECHNOLOGY_OF_THE_STARS_IS_IN_YOUR_CELLS",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE TECHNOLOGY OF THE STARS IS IN YOUR CELLS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/THE_TECHNOLOGY_OF_THE_STARS_IS_IN_YOUR_CELLS.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "That_What_Love_Is_For",
+      "iconName" : "heart.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THAT WHAT LOVE IS FOR",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/That_What_Love_Is_For.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "The_Mind_Leads_A_Things",
+      "iconName" : "waveform.path",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THE MIND LEADS A THINGS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/The_Mind_Leads_A_Things.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "This_One_For_You",
+      "iconName" : "leaf.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "THIS ONE FOR YOU",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/This_One_For_You.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Van_Gogh",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "VAN GOGH",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Van_Gogh.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "When_I_Fall_In_Love",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WHEN I FALL IN LOVE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_I_Fall_In_Love.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "When_You_Wish_Upon_A_Star",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WHEN YOU WISH UPON A STAR",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_You_Wish_Upon_A_Star.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Whenever_It_Rains",
+      "iconName" : "cloud.rain.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WHENEVER IT RAINS",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Whenever_It_Rains.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "White_Snow",
+      "iconName" : "snowflake",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WHITE SNOW",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/White_Snow.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Who_Lovin_You",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WHO LOVIN YOU",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Who_Lovin_You.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Wound",
+      "iconName" : "sparkles",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WOUND",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Wound.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Wound_1",
+      "iconName" : "waveform.path",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "WOUND 1",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Wound_1.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY",
+      "iconName" : "star.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "YOUR GENETIC CODE IS A COSMIC LIBRARY",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "Yesterday_Once_More",
+      "iconName" : "moon.stars.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "YESTERDAY ONCE MORE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Yesterday_Once_More.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "chinese_zen_flute",
+      "iconName" : "music.note",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "CHINESE ZEN FLUTE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/chinese_zen_flute.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "deep_calm",
+      "iconName" : "waveform.path",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "DEEP CALM",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/deep_calm.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "gentle_breeze",
+      "iconName" : "wind",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "GENTLE BREEZE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/gentle_breeze.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "inner_peace",
+      "iconName" : "leaf.circle.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "INNER PEACE",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/inner_peace.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "law_of_karma",
+      "iconName" : "drop.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "LAW OF KARMA",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/law_of_karma.mp3"
+    },
+    {
+      "category" : "zen_hit",
+      "fileName" : "peaceful_morning",
+      "iconName" : "sunrise.fill",
+      "isLocked" : false,
+      "isNew" : true,
+      "name" : "PEACEFUL MORNING",
+      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/peaceful_morning.mp3"
     }
-  ]
+  ],
+  "version" : 37
 }
