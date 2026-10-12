@@ -55,7 +55,8 @@
     "Ballade_Pour_Adeline",
     "For_All_We_Know",
     "Fox_Rain",
-    "Fox_Rain_1"
+    "Fox_Rain_1",
+    "How_Do_I_Love_Thee"
   ],
   "sounds" : [
     {
@@ -1652,15 +1653,6 @@
     },
     {
       "category" : "zen_hit",
-      "fileName" : "How_Do_I_Love_Thee",
-      "iconName" : "star.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "HOW DO I LOVE THEE",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/How_Do_I_Love_Thee.mp3"
-    },
-    {
-      "category" : "zen_hit",
       "fileName" : "I_Made_It_Through_The_Rain",
       "iconName" : "cloud.rain.fill",
       "isLocked" : false,
@@ -2011,5 +2003,5 @@
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/peaceful_morning.mp3"
     }
   ],
-  "version" : 37
+  "version" : 38
 }
