@@ -56,7 +56,27 @@
     "For_All_We_Know",
     "Fox_Rain",
     "Fox_Rain_1",
-    "How_Do_I_Love_Thee"
+    "How_Do_I_Love_Thee",
+    "In_My_Life",
+    "Limit",
+    "Melody_of_the_Nigh_1",
+    "Memory",
+    "Our_Night_Is_More_Beautiful_Than_Your_Day",
+    "Places_That_Belong_To_You",
+    "River_Flows_In_You",
+    "September",
+    "Somewhere",
+    "Somewhere_Out_There",
+    "That_What_Love_Is_For",
+    "This_One_For_You",
+    "Van_Gogh",
+    "When_You_Wish_Upon_A_Star",
+    "Whenever_It_Rains",
+    "White_Snow",
+    "Who_Lovin_You",
+    "Wound",
+    "Yesterday_Once_More",
+    "peaceful_morning"
   ],
   "sounds" : [
     {
@@ -1671,48 +1691,12 @@
     },
     {
       "category" : "zen_hit",
-      "fileName" : "In_My_Life",
-      "iconName" : "leaf.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "IN MY LIFE",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/In_My_Life.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Limit",
-      "iconName" : "music.note",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "LIMIT",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Limit.mp3"
-    },
-    {
-      "category" : "zen_hit",
       "fileName" : "Melody_Of_The_Night",
       "iconName" : "moon.stars.fill",
       "isLocked" : false,
       "isNew" : true,
       "name" : "MELODY OF THE NIGHT",
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_Of_The_Night.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Melody_of_the_Nigh_1",
-      "iconName" : "star.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "MELODY OF THE NIGH 1",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Melody_of_the_Nigh_1.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Memory",
-      "iconName" : "moon.stars.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "MEMORY",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Memory.mp3"
     },
     {
       "category" : "zen_hit",
@@ -1725,66 +1709,12 @@
     },
     {
       "category" : "zen_hit",
-      "fileName" : "Our_Night_Is_More_Beautiful_Than_Your_Day",
-      "iconName" : "moon.stars.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "OUR NIGHT IS MORE BEAUTIFUL THAN YOUR DAY",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Our_Night_Is_More_Beautiful_Than_Your_Day.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Places_That_Belong_To_You",
-      "iconName" : "drop.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "PLACES THAT BELONG TO YOU",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Places_That_Belong_To_You.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "River_Flows_In_You",
-      "iconName" : "water.waves",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "RIVER FLOWS IN YOU",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/River_Flows_In_You.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "September",
-      "iconName" : "heart.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "SEPTEMBER",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/September.mp3"
-    },
-    {
-      "category" : "zen_hit",
       "fileName" : "Silent_Breath",
       "iconName" : "moon.stars.fill",
       "isLocked" : false,
       "isNew" : true,
       "name" : "SILENT BREATH",
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Silent_Breath.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Somewhere",
-      "iconName" : "circle.circle.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "SOMEWHERE",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Somewhere_Out_There",
-      "iconName" : "circle.circle.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "SOMEWHERE OUT THERE",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Somewhere_Out_There.mp3"
     },
     {
       "category" : "zen_hit",
@@ -1833,15 +1763,6 @@
     },
     {
       "category" : "zen_hit",
-      "fileName" : "That_What_Love_Is_For",
-      "iconName" : "heart.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "THAT WHAT LOVE IS FOR",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/That_What_Love_Is_For.mp3"
-    },
-    {
-      "category" : "zen_hit",
       "fileName" : "The_Mind_Leads_A_Things",
       "iconName" : "waveform.path",
       "isLocked" : false,
@@ -1851,75 +1772,12 @@
     },
     {
       "category" : "zen_hit",
-      "fileName" : "This_One_For_You",
-      "iconName" : "leaf.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "THIS ONE FOR YOU",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/This_One_For_You.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Van_Gogh",
-      "iconName" : "moon.stars.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "VAN GOGH",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Van_Gogh.mp3"
-    },
-    {
-      "category" : "zen_hit",
       "fileName" : "When_I_Fall_In_Love",
       "iconName" : "moon.stars.fill",
       "isLocked" : false,
       "isNew" : true,
       "name" : "WHEN I FALL IN LOVE",
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_I_Fall_In_Love.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "When_You_Wish_Upon_A_Star",
-      "iconName" : "star.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "WHEN YOU WISH UPON A STAR",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/When_You_Wish_Upon_A_Star.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Whenever_It_Rains",
-      "iconName" : "cloud.rain.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "WHENEVER IT RAINS",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Whenever_It_Rains.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "White_Snow",
-      "iconName" : "snowflake",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "WHITE SNOW",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/White_Snow.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Who_Lovin_You",
-      "iconName" : "wind",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "WHO LOVIN YOU",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Who_Lovin_You.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Wound",
-      "iconName" : "sparkles",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "WOUND",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Wound.mp3"
     },
     {
       "category" : "zen_hit",
@@ -1938,15 +1796,6 @@
       "isNew" : true,
       "name" : "YOUR GENETIC CODE IS A COSMIC LIBRARY",
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/YOUR_GENETIC_CODE_IS_A_COSMIC_LIBRARY.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "Yesterday_Once_More",
-      "iconName" : "moon.stars.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "YESTERDAY ONCE MORE",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/Yesterday_Once_More.mp3"
     },
     {
       "category" : "zen_hit",
@@ -1992,16 +1841,7 @@
       "isNew" : true,
       "name" : "LAW OF KARMA",
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/law_of_karma.mp3"
-    },
-    {
-      "category" : "zen_hit",
-      "fileName" : "peaceful_morning",
-      "iconName" : "sunrise.fill",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "PEACEFUL MORNING",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/peaceful_morning.mp3"
     }
   ],
-  "version" : 38
+  "version" : 39
 }
