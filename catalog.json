@@ -71,6 +71,7 @@
     "Spring_Forest_Nature",
     "That_What_Love_Is_For",
     "This_One_For_You",
+    "Tingsha_voice_can_clear_negative_thoughts",
     "Van_Gogh",
     "When_You_Wish_Upon_A_Star",
     "Whenever_It_Rains",
@@ -1014,15 +1015,6 @@
     },
     {
       "category" : "nature",
-      "fileName" : "Tingsha_voice_can_clear_negative_thoughts",
-      "iconName" : "snowflake",
-      "isLocked" : false,
-      "isNew" : true,
-      "name" : "TINGSHA VOICE CAN CLEAR NEGATIVE THOUGHTS",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Tingsha_voice_can_clear_negative_thoughts.mp3"
-    },
-    {
-      "category" : "nature",
       "fileName" : "ambient_desert",
       "iconName" : "desert",
       "isLocked" : true,
@@ -1808,5 +1800,5 @@
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/law_of_karma.mp3"
     }
   ],
-  "version" : 41
+  "version" : 42
 }
