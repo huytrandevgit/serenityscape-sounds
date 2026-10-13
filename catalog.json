@@ -58,6 +58,7 @@
     "Fox_Rain_1",
     "How_Do_I_Love_Thee",
     "In_My_Life",
+    "Kalimba",
     "Limit",
     "Melody_of_the_Nigh_1",
     "Memory",
@@ -67,6 +68,7 @@
     "September",
     "Somewhere",
     "Somewhere_Out_There",
+    "Spring_Forest_Nature",
     "That_What_Love_Is_For",
     "This_One_For_You",
     "Van_Gogh",
@@ -76,7 +78,10 @@
     "Who_Lovin_You",
     "Wound",
     "Yesterday_Once_More",
-    "peaceful_morning"
+    "jungle_sounds",
+    "ocean_drum",
+    "peaceful_morning",
+    "wooden_flute"
   ],
   "sounds" : [
     {
@@ -1000,22 +1005,6 @@
     },
     {
       "category" : "nature",
-      "fileName" : "Kalimba",
-      "iconName" : "kalimba",
-      "isLocked" : true,
-      "name" : "KALIMBA",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Kalimba.mp3"
-    },
-    {
-      "category" : "nature",
-      "fileName" : "Spring_Forest_Nature",
-      "iconName" : "leaf.fill",
-      "isLocked" : true,
-      "name" : "SPRING FOREST",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/Spring_Forest_Nature.mp3"
-    },
-    {
-      "category" : "nature",
       "fileName" : "Tibetan_Singing_Bowls",
       "iconName" : "circle.hexagongrid.fill",
       "isLocked" : false,
@@ -1303,14 +1292,6 @@
     },
     {
       "category" : "nature",
-      "fileName" : "jungle_sounds",
-      "iconName" : "jungle",
-      "isLocked" : true,
-      "name" : "JUNGLE SOUNDS",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/jungle_sounds.mp3"
-    },
-    {
-      "category" : "nature",
       "fileName" : "lake_waves",
       "iconName" : "lake",
       "isLocked" : false,
@@ -1365,14 +1346,6 @@
       "isLocked" : true,
       "name" : "OCEAN AT NIGHT",
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ocean_at_night.mp3"
-    },
-    {
-      "category" : "nature",
-      "fileName" : "ocean_drum",
-      "iconName" : "oceandrum",
-      "isLocked" : true,
-      "name" : "OCEAN DRUM",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/ocean_drum.mp3"
     },
     {
       "category" : "nature",
@@ -1547,14 +1520,6 @@
       "isLocked" : false,
       "name" : "WINDY VALLEY",
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/windy_valley.mp3"
-    },
-    {
-      "category" : "nature",
-      "fileName" : "wooden_flute",
-      "iconName" : "woodenflute",
-      "isLocked" : true,
-      "name" : "WOODEN FLUTE",
-      "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/nature/wooden_flute.mp3"
     },
     {
       "category" : "nature",
@@ -1843,5 +1808,5 @@
       "url" : "https://raw.githubusercontent.com/huytrandevgit/serenityscape-sounds/main/zen_hit/law_of_karma.mp3"
     }
   ],
-  "version" : 40
+  "version" : 41
 }
