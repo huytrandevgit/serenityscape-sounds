@@ -1806,7 +1806,8 @@
       "isLocked": false,
       "isNew": true,
       "name": "MEDITATION RELAX 01",
-      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/meditation_relax_01.mp3"
+      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/meditation_relax_01.m4a",
+      "isStreamed": true
     },
     {
       "category": "zen_hit",
@@ -1815,7 +1816,8 @@
       "isLocked": false,
       "isNew": true,
       "name": "DEEP SLEEP MUSIC 02",
-      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/deep_sleep_music_02.mp3"
+      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/deep_sleep_music_02.m4a",
+      "isStreamed": true
     },
     {
       "category": "zen_hit",
@@ -1824,7 +1826,8 @@
       "isLocked": false,
       "isNew": true,
       "name": "ZEN HEALING 03",
-      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/zen_healing_03.mp3"
+      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/zen_healing_03.m4a",
+      "isStreamed": true
     },
     {
       "category": "zen_hit",
@@ -1833,8 +1836,9 @@
       "isLocked": false,
       "isNew": true,
       "name": "PEACEFUL MIND 04",
-      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/peaceful_mind_04.mp3"
+      "url": "https://github.com/huytrandevgit/serenityscape-sounds/releases/download/v1.0.0/peaceful_mind_04.m4a",
+      "isStreamed": true
     }
   ],
-  "version": 44
+  "version": 45
 }
