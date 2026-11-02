@@ -2,13 +2,9 @@
   "grantedDevices" : {
 
   },
-  "updatedAt" : "2026-11-02T13:20:41Z",
+  "updatedAt" : "2026-11-02T13:23:57Z",
   "version" : 1,
   "vipCodes" : {
-    "SERENITY-1THÁNG-CC1DB8" : {
-      "code" : "SERENITY-1THÁNG-CC1DB8",
-      "createdAt" : "2026-11-02T13:20:41Z",
-      "durationTier" : "1_month"
-    }
+
   }
 }
