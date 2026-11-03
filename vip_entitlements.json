@@ -1,14 +1,22 @@
 {
   "grantedDevices" : {
-
+    "9153A9BA-A49B-4655-A9C7-C80273449043" : {
+      "deviceId" : "9153A9BA-A49B-4655-A9C7-C80273449043",
+      "deviceModel" : "iPhone 14",
+      "durationTier" : "lifetime",
+      "grantedAt" : "2026-11-03T03:14:36Z",
+      "note" : "Kích hoạt bằng mã VIP-G6HK-J3ME-CU89"
+    }
   },
-  "updatedAt" : "2026-11-03T03:12:37Z",
+  "updatedAt" : "2026-11-03T03:14:36Z",
   "version" : 1,
   "vipCodes" : {
     "VIP-G6HK-J3ME-CU89" : {
       "code" : "VIP-G6HK-J3ME-CU89",
       "createdAt" : "2026-11-03T03:12:37Z",
-      "durationTier" : "lifetime"
+      "durationTier" : "lifetime",
+      "redeemedAt" : "2026-11-03T03:14:36Z",
+      "redeemedByDevice" : "9153A9BA-A49B-4655-A9C7-C80273449043"
     }
   }
 }
