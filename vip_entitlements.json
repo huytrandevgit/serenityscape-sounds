@@ -2,9 +2,13 @@
   "grantedDevices" : {
 
   },
-  "updatedAt" : "2026-11-02T13:23:57Z",
+  "updatedAt" : "2026-11-03T03:12:37Z",
   "version" : 1,
   "vipCodes" : {
-
+    "VIP-G6HK-J3ME-CU89" : {
+      "code" : "VIP-G6HK-J3ME-CU89",
+      "createdAt" : "2026-11-03T03:12:37Z",
+      "durationTier" : "lifetime"
+    }
   }
 }
